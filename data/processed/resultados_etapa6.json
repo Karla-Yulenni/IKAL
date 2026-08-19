@@ -1,0 +1,349 @@
+{
+  "resumen": {
+    "total_ventas": 3614,
+    "ventas_validas": 3373,
+    "ventas_canceladas": 241,
+    "tasa_cancelacion_pct": 6.7,
+    "ingreso_bruto": 2588255.55,
+    "ingreso_neto": 2411947.83,
+    "total_artesanos": 60,
+    "total_productos": 150,
+    "total_compradores": 900,
+    "periodo": "2023-08-30 a 2026-08-10"
+  },
+  "top10_artesanos": [
+    {
+      "nombre": "Jaime Pascual Sepúlveda",
+      "ubicacion": "Pantepec",
+      "fecha_registro": "2023-09-03",
+      "productos_publicados": 5,
+      "ingreso_neto": 239329.62,
+      "unidades_vendidas_neto": 421
+    },
+    {
+      "nombre": "Arcelia Laura Vigil",
+      "ubicacion": "Xicotepec de Juárez",
+      "fecha_registro": "2024-07-05",
+      "productos_publicados": 3,
+      "ingreso_neto": 109997.76,
+      "unidades_vendidas_neto": 178
+    },
+    {
+      "nombre": "Francisco Javier Timoteo Valadez",
+      "ubicacion": "Pantepec",
+      "fecha_registro": "2023-11-29",
+      "productos_publicados": 4,
+      "ingreso_neto": 103683.33,
+      "unidades_vendidas_neto": 235
+    },
+    {
+      "nombre": "Mitzy Esperanza Peres",
+      "ubicacion": "Xicotepec de Juárez",
+      "fecha_registro": "2024-08-23",
+      "productos_publicados": 2,
+      "ingreso_neto": 94831.66,
+      "unidades_vendidas_neto": 96
+    },
+    {
+      "nombre": "Carmen María Teresa Girón Casas",
+      "ubicacion": "Xicotepec de Juárez",
+      "fecha_registro": "2024-10-06",
+      "productos_publicados": 4,
+      "ingreso_neto": 83217.43,
+      "unidades_vendidas_neto": 121
+    },
+    {
+      "nombre": "Carmen Sessa Vélez Mares",
+      "ubicacion": "Pantepec",
+      "fecha_registro": "2024-06-24",
+      "productos_publicados": 3,
+      "ingreso_neto": 67940.48,
+      "unidades_vendidas_neto": 102
+    },
+    {
+      "nombre": "Ramiro Candelaria Portillo",
+      "ubicacion": "Xicotepec de Juárez",
+      "fecha_registro": "2024-09-16",
+      "productos_publicados": 3,
+      "ingreso_neto": 64696.04,
+      "unidades_vendidas_neto": 95
+    },
+    {
+      "nombre": "Mayte Pilar Salas",
+      "ubicacion": "Pantepec",
+      "fecha_registro": "2024-08-03",
+      "productos_publicados": 3,
+      "ingreso_neto": 59751.17,
+      "unidades_vendidas_neto": 117
+    },
+    {
+      "nombre": "Isabel Ocampo Serna",
+      "ubicacion": "Pantepec",
+      "fecha_registro": "2024-06-07",
+      "productos_publicados": 1,
+      "ingreso_neto": 48834.6,
+      "unidades_vendidas_neto": 60
+    },
+    {
+      "nombre": "Sr. Alejandro Cornejo",
+      "ubicacion": "Xicotepec de Juárez",
+      "fecha_registro": "2024-11-22",
+      "productos_publicados": 3,
+      "ingreso_neto": 47073.77,
+      "unidades_vendidas_neto": 59
+    }
+  ],
+  "bottom10_artesanos": [
+    {
+      "nombre": "Amador Jorge Luis Morales",
+      "ubicacion": "Xicotepec de Juárez",
+      "fecha_registro": "2025-10-31",
+      "productos_publicados": 1,
+      "ingreso_neto": 928.29,
+      "unidades_vendidas_neto": 3
+    },
+    {
+      "nombre": "Liliana Berríos",
+      "ubicacion": "Xicotepec de Juárez",
+      "fecha_registro": "2026-06-28",
+      "productos_publicados": 2,
+      "ingreso_neto": 411.9,
+      "unidades_vendidas_neto": 1
+    },
+    {
+      "nombre": "Olga Nayeli Salas",
+      "ubicacion": "Xicotepec de Juárez",
+      "fecha_registro": "2023-12-11",
+      "productos_publicados": 0,
+      "ingreso_neto": 0,
+      "unidades_vendidas_neto": 0
+    },
+    {
+      "nombre": "Mauricio Abraham Salas",
+      "ubicacion": "Xicotepec de Juárez",
+      "fecha_registro": "2024-05-04",
+      "productos_publicados": 0,
+      "ingreso_neto": 0,
+      "unidades_vendidas_neto": 0
+    },
+    {
+      "nombre": "Sessa Sánchez",
+      "ubicacion": "Pantepec",
+      "fecha_registro": "2024-10-19",
+      "productos_publicados": 0,
+      "ingreso_neto": 0,
+      "unidades_vendidas_neto": 0
+    },
+    {
+      "nombre": "Mercedes Marisol Puente Valdez",
+      "ubicacion": "Pantepec",
+      "fecha_registro": "2025-01-14",
+      "productos_publicados": 0,
+      "ingreso_neto": 0,
+      "unidades_vendidas_neto": 0
+    },
+    {
+      "nombre": "Adriana Arcelia Abrego Razo",
+      "ubicacion": "Pantepec",
+      "fecha_registro": "2025-02-23",
+      "productos_publicados": 0,
+      "ingreso_neto": 0,
+      "unidades_vendidas_neto": 0
+    },
+    {
+      "nombre": "Alma Daniela Delgadillo",
+      "ubicacion": "Xicotepec de Juárez",
+      "fecha_registro": "2026-02-05",
+      "productos_publicados": 1,
+      "ingreso_neto": 0,
+      "unidades_vendidas_neto": 0
+    },
+    {
+      "nombre": "Ricardo Arriaga Razo",
+      "ubicacion": "Xicotepec de Juárez",
+      "fecha_registro": "2026-02-20",
+      "productos_publicados": 0,
+      "ingreso_neto": 0,
+      "unidades_vendidas_neto": 0
+    },
+    {
+      "nombre": "Esteban Julio Laboy Pizarro",
+      "ubicacion": "Xicotepec de Juárez",
+      "fecha_registro": "2026-05-13",
+      "productos_publicados": 1,
+      "ingreso_neto": 0,
+      "unidades_vendidas_neto": 0
+    }
+  ],
+  "stats_ingreso_artesano": {
+    "media": 25722.95,
+    "mediana": 10105.89,
+    "min": 0,
+    "max": 239329.62
+  },
+  "artesanos_inactivos": [
+    {
+      "nombre": "Olga Nayeli Salas",
+      "ubicacion": "Xicotepec de Juárez",
+      "fecha_registro": "2023-12-11",
+      "productos_publicados": 0,
+      "ingreso_neto": 0,
+      "unidades_vendidas_neto": 0
+    },
+    {
+      "nombre": "Mauricio Abraham Salas",
+      "ubicacion": "Xicotepec de Juárez",
+      "fecha_registro": "2024-05-04",
+      "productos_publicados": 0,
+      "ingreso_neto": 0,
+      "unidades_vendidas_neto": 0
+    },
+    {
+      "nombre": "Sessa Sánchez",
+      "ubicacion": "Pantepec",
+      "fecha_registro": "2024-10-19",
+      "productos_publicados": 0,
+      "ingreso_neto": 0,
+      "unidades_vendidas_neto": 0
+    },
+    {
+      "nombre": "Mercedes Marisol Puente Valdez",
+      "ubicacion": "Pantepec",
+      "fecha_registro": "2025-01-14",
+      "productos_publicados": 0,
+      "ingreso_neto": 0,
+      "unidades_vendidas_neto": 0
+    },
+    {
+      "nombre": "Adriana Arcelia Abrego Razo",
+      "ubicacion": "Pantepec",
+      "fecha_registro": "2025-02-23",
+      "productos_publicados": 0,
+      "ingreso_neto": 0,
+      "unidades_vendidas_neto": 0
+    },
+    {
+      "nombre": "Ricardo Arriaga Razo",
+      "ubicacion": "Xicotepec de Juárez",
+      "fecha_registro": "2026-02-20",
+      "productos_publicados": 0,
+      "ingreso_neto": 0,
+      "unidades_vendidas_neto": 0
+    }
+  ],
+  "pct_inactivos": 10.0,
+  "por_comunidad": {
+    "Pantepec": {
+      "ingreso_neto": 636187.05,
+      "n_artesanos": 20,
+      "promedio_por_artesano": 31809.35
+    },
+    "Xicotepec de Juárez": {
+      "ingreso_neto": 907190.11,
+      "n_artesanos": 40,
+      "promedio_por_artesano": 22679.75
+    }
+  },
+  "por_categoria": {
+    "Blusa": {
+      "ingreso_neto": 662696.64,
+      "n_ventas": 646,
+      "margen_promedio_pct": 60.4
+    },
+    "Bordado": {
+      "ingreso_neto": 807565.22,
+      "n_ventas": 737,
+      "margen_promedio_pct": 60.0
+    },
+    "Playera": {
+      "ingreso_neto": 260765.41,
+      "n_ventas": 661,
+      "margen_promedio_pct": 58.1
+    },
+    "Accesorio": {
+      "ingreso_neto": 127438.48,
+      "n_ventas": 516,
+      "margen_promedio_pct": 62.9
+    },
+    "Bolsa": {
+      "ingreso_neto": 478795.57,
+      "n_ventas": 568,
+      "margen_promedio_pct": 61.9
+    },
+    "Aretes": {
+      "ingreso_neto": 74686.51,
+      "n_ventas": 245,
+      "margen_promedio_pct": 64.0
+    }
+  },
+  "benchmark_marca_ikal": {
+    "ingreso_neto_marca_ikal": 868570.67,
+    "ingreso_neto_artesanos_total": 1543377.16,
+    "pct_ingreso_marca_ikal": 36.0,
+    "ingreso_promedio_por_producto_marca": 28952.36,
+    "ingreso_promedio_por_producto_artesano": 12861.48,
+    "ratio_por_producto": 2.25,
+    "margen_promedio_marca_pct": 61.4,
+    "margen_promedio_artesano_pct": 61.2
+  },
+  "alcance_geografico": {
+    "pct_fuera_region": 84.2,
+    "pct_dentro_region": 15.8,
+    "top_ubicaciones": [
+      [
+        "CDMX",
+        667
+      ],
+      [
+        "Monterrey",
+        507
+      ],
+      [
+        "Puebla",
+        501
+      ],
+      [
+        "Guadalajara",
+        426
+      ],
+      [
+        "Xicotepec de Juárez",
+        403
+      ],
+      [
+        "Querétaro",
+        402
+      ],
+      [
+        "Toluca",
+        337
+      ],
+      [
+        "Pantepec",
+        130
+      ]
+    ]
+  },
+  "cancelacion_por_canal": {
+    "Facebook": {
+      "total": 726,
+      "canceladas": 37,
+      "tasa_pct": 5.1
+    },
+    "Web": {
+      "total": 1468,
+      "canceladas": 94,
+      "tasa_pct": 6.4
+    },
+    "WhatsApp": {
+      "total": 372,
+      "canceladas": 27,
+      "tasa_pct": 7.3
+    },
+    "Instagram": {
+      "total": 1048,
+      "canceladas": 83,
+      "tasa_pct": 7.9
+    }
+  }
+}
