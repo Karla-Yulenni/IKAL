@@ -1,0 +1,35 @@
+{
+  "margen_artesano": 61.2,
+  "pct_artesanos_activos": 86.7,
+  "artesanos_activos_n": 52,
+  "artesanos_total_n": 60,
+  "pct_fuera_region": 84.2,
+  "tasa_cancelacion": 6.7,
+  "ticket_promedio_global": 715.07,
+  "ticket_por_trimestre": {
+    "2023-Q3": 979.72,
+    "2023-Q4": 952.29,
+    "2024-Q1": 599.49,
+    "2024-Q2": 714.56,
+    "2024-Q3": 762.77,
+    "2024-Q4": 717.25,
+    "2025-Q1": 711.47,
+    "2025-Q2": 776.12,
+    "2025-Q3": 755.23,
+    "2025-Q4": 715.84,
+    "2026-Q1": 669.3,
+    "2026-Q2": 663.56,
+    "2026-Q3": 647.01
+  },
+  "ticket_avg_ultimos4_completos": 700.98,
+  "ticket_avg_4_anteriores": 741.9,
+  "ticket_tendencia_pct": -5.5,
+  "margen_por_categoria": {
+    "Playera": 58.1,
+    "Bordado": 60.0,
+    "Accesorio": 62.9,
+    "Bolsa": 61.9,
+    "Blusa": 60.4,
+    "Aretes": 64.0
+  }
+}
