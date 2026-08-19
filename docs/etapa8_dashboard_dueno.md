@@ -37,4 +37,4 @@ Se configuraron reglas de negocio visuales para advertir al administrador ante e
 * **¿Por qué está ocurriendo?** La confianza en la plataforma digital y las festividades de temporada impulsan la adquisición de piezas únicas bordadas.
 * **¿Qué decisión debería tomar el negocio?** Destinar el 70% del presupuesto de marketing digital a potenciar el tráfico directo al sitio Web y coordinarse con los artesanos locales desde el mes de agosto para asegurar el stock ante el incremento de demanda.
 
-![Dashboard del administrador](dashboard_dueño.png)
+![Dashboard del administrador](img/dashboard_dueño.png)
