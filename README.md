@@ -17,6 +17,9 @@ La plataforma busca ampliar el mercado de los artesanos mediante herramientas di
 Además, IKAL busca promover las artesanías de la región y dar mayor visibilidad a los productos locales, incluyendo propuestas innovadoras como artesanías con realidad aumentada en sus bordados.
 
 ---
+## Problemática 
+
+Los artesanos locales enfrentan dificultades para vender directamente sus productos, lo que genera una dependencia de intermediarios que reducen sus márgenes de ganancia.
 
 # Objetivo general del proyecto
 
