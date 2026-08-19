@@ -1,5 +1,8 @@
 # IKAL
 ---
+
+![Logotipo de IKAL](docs/img/logo.png)
+
 ## Plataforma digital para la comercialización de artesanías regionales
 ---
 IKAL es una plataforma web regional enfocada en la comercialización de artesanías elaboradas por artesanos de Xicotepec y Pantepec, facilitando el comercio justo y eliminando intermediarios.
