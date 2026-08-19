@@ -1,4 +1,4 @@
-# Etapa 9: Dashboards del Cliente"
+# Etapa 9: Dashboards del Cliente
 
 ## 9.1 Definición de la Doble Perspectiva de Cliente
 Para el modelo de negocio de IKAL (plataforma de conexión digital para artesanos), la gestión de usuarios abarca dos roles clave que interactúan en el ecosistema digital:
