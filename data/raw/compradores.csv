@@ -1,0 +1,901 @@
+﻿comprador_id,nombre,ubicacion,fecha_registro,num_compras,total_gastado
+1,Guillermo Miguel Salinas Pelayo,CDMX,2023-08-28,22,16022.63
+2,Lic. Ernesto Melgar,Toluca,2023-08-28,15,13825.89
+3,María Teresa Rael,CDMX,2023-08-31,9,7903.21
+4,Ramón Ramón Lara,Toluca,2023-09-12,13,11356.59
+5,Fidel Gabriel Adame,Xicotepec de Juárez,2023-09-14,10,6502.5
+6,Mauro Jesús Pantoja,Puebla,2023-09-15,15,13951.9
+7,Susana Echeverría,,2023-09-22,16,12083.95
+8,José Cortez Mora,Xicotepec de Juárez,2023-09-26,6,5957.65
+9,Úrsula Vega,Toluca,2023-10-09,11,8216.44
+10,Dulce Carmona,CDMX,2023-10-12,7,5075.38
+11,Dra. Noelia Vanegas,Puebla,2023-10-13,13,9610.86
+12,Rufino Lozano,Puebla,2023-10-14,20,15182.45
+13,Dra. Susana Valadez,Monterrey,2023-10-18,12,11409.59
+14,Bruno Guillermo Caldera Pulido,CDMX,2023-10-20,11,6898.09
+15,Carlos Ángel Moya Escalante,CDMX,2023-10-22,15,11501.44
+16,Patricio Jacobo Lebrón,Pantepec,2023-11-04,13,11470.71
+17,Sra. Florencia Mascareñas,Querétaro,2023-11-06,15,11254.37
+18,Gregorio Gonzalo Barajas Alcaraz,Querétaro,2023-11-10,13,10379.96
+19,Esparta Liliana Alejandro,Xicotepec de Juárez,2023-11-11,18,16814.18
+20,Bernardo Gollum Altamirano,Toluca,2023-11-21,17,18466.85
+21,Sr. Bernardo Valentín,Puebla,2023-11-26,13,8895.14
+22,Dra. Graciela Reséndez,Monterrey,2023-11-28,7,4878.11
+23,Lic. Alta  Gracia Páez,Guadalajara,2023-12-02,7,5182.65
+24,Rebeca Galván Villegas,CDMX,2023-12-02,14,6168.82
+25,Lourdes Teresa Casares Noriega,Monterrey,2023-12-03,13,11003.08
+26,Trinidad Heredia,Guadalajara,2023-12-04,8,5122.37
+27,Florencia Isabel Baeza,Querétaro,2023-12-05,7,4797.05
+28,Aldonza Eva Menéndez,Guadalajara,2023-12-05,12,7319.77
+29,Sr. Isaac Peña,CDMX,2023-12-08,5,3489.58
+30,Paola Almonte Torres,Querétaro,2023-12-10,11,7530.29
+31,Daniela Valentín Badillo,Guadalajara,2023-12-12,18,16178.3
+32,Emiliano Wilfrido Casillas,Guadalajara,2023-12-18,5,2797.44
+33,Alfonso Cristian Solorzano,Guadalajara,2023-12-18,9,4949.61
+34,Perla Madrid Anaya,Puebla,2023-12-24,11,8477.63
+35,Pamela Camila Moya,Querétaro,2023-12-26,11,5967.64
+36,Judith Josefina Grijalva,Monterrey,2023-12-31,10,6927.14
+37,Soledad Dulce María Castillo,CDMX,2024-01-03,9,4868.7
+38,Reynaldo Aldo Toro Vaca,Monterrey,2024-01-05,14,8409.38
+39,Esparta Carolina Gil,CDMX,2024-01-06,4,2127.6
+40,Adán Lebrón Toro,CDMX,2024-01-07,8,3933.19
+41,Liliana Estefanía Mascareñas Chavarría,Monterrey,2024-01-07,7,2788.42
+42,Sra. Conchita Uribe,CDMX,2024-01-09,3,2719.2
+43,Porfirio Jaimes Molina,Puebla,2024-01-09,16,10564.02
+44,Guadalupe Badillo,Monterrey,2024-01-17,14,10087.16
+45,Zeferino Guerra Rodrígez,Querétaro,2024-01-19,11,8209.35
+46,Francisco Sauceda Corona,Xicotepec de Juárez,2024-01-19,9,6262.88
+47,Wendolin Isabela Gonzales,CDMX,2024-01-21,9,6546.21
+48,Esther Montalvo,CDMX,2024-01-21,7,4974.17
+49,José Manuél Muñoz,Guadalajara,2024-01-26,12,10089.45
+50,Sandra María Cristina Ulibarri Rojo,Xicotepec de Juárez,2024-01-27,6,4185.22
+51,Dra. Cynthia Covarrubias,Guadalajara,2024-01-30,14,10688.04
+52,Cecilia Mariana Adame,Monterrey,2024-01-31,12,12988.62
+53,Miriam Paredes Archuleta,Guadalajara,2024-02-01,11,8688.24
+54,Benito Isaac Nieves Treviño,Xicotepec de Juárez,2024-02-06,9,5328.05
+55,Dr. Bruno Almanza,Guadalajara,2024-02-08,11,7970.28
+56,Dulce Verduzco,Querétaro,2024-02-08,9,6782.2
+57,Sr. Julio César Olivares,Monterrey,2024-02-12,12,10267.49
+58,Minerva Cotto,Querétaro,2024-02-13,11,9772.35
+59,Aurora Briones,Pantepec,2024-02-17,13,5739.03
+60,Julio Joaquín Trujillo Ibarra,Querétaro,2024-02-22,6,2787.37
+61,Sr. Silvano Espinal,CDMX,2024-02-25,8,7415.32
+62,Humberto Ignacio Toro Lira,Toluca,2024-02-27,7,4532.56
+63,Carla Oquendo Esparza,Puebla,2024-03-02,8,5145.64
+64,Uriel Rosado Pichardo,CDMX,2024-03-02,8,6699.73
+65,Nancy de la Rosa Sevilla,CDMX,2024-03-02,5,4186.27
+66,Ernesto Mascareñas Tirado,Guadalajara,2024-03-05,18,12421.31
+67,Emiliano Aldo Carrión Serrato,Guadalajara,2024-03-05,6,4297.39
+68,José Manuél Barela Nazario,Toluca,2024-03-06,15,11629.65
+69,Dr. Renato Corrales,Monterrey,2024-03-06,18,14477.38
+70,Lic. Emilia Castro,Puebla,2024-03-06,10,8553.21
+71,Jerónimo Omar Carbajal,Puebla,2024-03-16,12,9293.3
+72,Juan Guillermo Madera,CDMX,2024-03-16,15,8198.89
+73,Jos Nicolás Samaniego,Querétaro,2024-03-16,8,7039.08
+74,Rodrigo Rafaél Gurule,Puebla,2024-03-17,3,2767.13
+75,Trinidad Reséndez Vigil,CDMX,2024-03-19,10,9452.83
+76,Antonia Barrientos Brito,CDMX,2024-03-23,11,6183.06
+77,Gloria Estefanía Gastélum de la Garza,Xicotepec de Juárez,2024-03-28,10,7160.41
+78,Lucía Santillán Valenzuela,Xicotepec de Juárez,2024-03-29,9,6570.8
+79,Guillermina Salcido Padrón,Monterrey,2024-03-29,12,5666.68
+80,Conchita Estrada Rivas,Monterrey,2024-04-03,8,5544.44
+81,Jos Montez,Xicotepec de Juárez,2024-04-04,6,4548.02
+82,Paulina Juana Galindo,Guadalajara,2024-04-06,7,4683.91
+83,Martín Rufino Cavazos Prado,Xicotepec de Juárez,2024-04-08,8,8712.5
+84,Ing. Clemente Maya,Querétaro,2024-04-08,8,6658.26
+85,Lic. Guillermo Colunga,Puebla,2024-04-08,5,3480.95
+86,Rosario Jasso,Xicotepec de Juárez,2024-04-08,9,6786.17
+87,Jesús Collazo,CDMX,2024-04-08,13,10634.29
+88,Blanca Jasso,Xicotepec de Juárez,2024-04-10,11,9322.92
+89,Lic. Leonel Pabón,Xicotepec de Juárez,2024-04-11,11,7593.19
+90,Roberto Mendoza Parra,Xicotepec de Juárez,2024-04-17,8,4717.32
+91,Ariadna Saldaña Treviño,CDMX,2024-04-19,8,4836.99
+92,Diana Pineda,Xicotepec de Juárez,2024-04-20,12,8984.48
+93,Sessa Menéndez Balderas,Puebla,2024-04-23,11,8291.81
+94,Zoé Concepción Alarcón,Querétaro,2024-04-25,5,3789.47
+95,Ing. Cristobal Mesa,Querétaro,2024-04-26,9,5919.36
+96,Lic. Liliana Rolón,Monterrey,2024-04-30,15,13877.66
+97,Ilse Adriana Archuleta Garay,CDMX,2024-05-02,10,7713.35
+98,Gustavo Jerónimo Almanza,Monterrey,2024-05-02,9,10548.56
+99,Maximiliano Serrato,CDMX,2024-05-02,3,1578.54
+100,Ing. Aurelio Valadez,Toluca,2024-05-03,9,8032.57
+101,René Alba,Puebla,2024-05-04,5,5655.77
+102,Elias Jesús Gaona,Querétaro,2024-05-07,9,8403.66
+103,Delia Rebeca de la Rosa Mares,Xicotepec de Juárez,2024-05-09,7,5245.52
+104,Rufino Luis Manuel Solorio,Puebla,2024-05-09,11,9761.31
+105,Lic. Carla Cardenas,Xicotepec de Juárez,2024-05-10,9,9386.17
+106,Héctor Perea Armendáriz,Toluca,2024-05-14,8,2381.2
+107,Roberto Porfirio Godoy Rodríguez,Querétaro,2024-05-15,8,7268.52
+108,Indira Montenegro Matías,Querétaro,2024-05-17,11,7855.84
+109,Ing. Esparta Sáenz,Pantepec,2024-05-17,8,5449.05
+110,Esmeralda Arce Saiz,Puebla,2024-05-18,14,9134.79
+111,Agustín Óliver Navarrete Hernandes,Puebla,2024-05-20,12,10701.1
+112,Daniela Ivonne Lara Sepúlveda,Querétaro,2024-05-23,10,7123.22
+113,Gabriela Dulce Verdugo,Toluca,2024-05-23,7,3945.88
+114,Luis Barragán Saucedo,Guadalajara,2024-05-24,7,4791.63
+115,Frida Rosas,Querétaro,2024-05-24,8,5283.26
+116,Sra. Mercedes Solorio,Monterrey,2024-05-27,7,5985.92
+117,Dra. Marisela Matías,CDMX,2024-05-28,10,6785.31
+118,Isabela Durán Bernal,Monterrey,2024-05-30,9,6282.04
+119,Concepción Hinojosa,Monterrey,2024-05-31,7,3982.06
+120,Miriam Olivera,CDMX,2024-06-02,11,6262.47
+121,Uriel Fidel Anaya,Pantepec,2024-06-04,9,7858.05
+122,Elvia Diana Portillo Sauceda,Puebla,2024-06-05,7,2984.3
+123,Camila Serrano,Querétaro,2024-06-05,9,7276.76
+124,Héctor Sáenz,Toluca,2024-06-09,6,3343.85
+125,Rolando Jerónimo Narváez Orosco,Toluca,2024-06-12,8,5062.97
+126,Rocío Tirado,Monterrey,2024-06-13,10,8025.5
+127,Eduardo Zepeda,Guadalajara,2024-06-17,12,12110.79
+128,Virginia Corral,Toluca,2024-06-19,6,3223.94
+129,Cristobal Salvador Ballesteros Aragón,Monterrey,2024-06-22,9,8475.69
+130,Ing. Ernesto Chávez,CDMX,2024-06-27,5,5139.9
+131,Ing. Cristian Reyna,Puebla,2024-06-27,12,7290.54
+132,Esteban Amador Escamilla Corrales,Puebla,2024-06-28,6,4611.11
+133,Sara Rosalia Saiz,Puebla,2024-06-28,6,3967.74
+134,Alicia Macías,Querétaro,2024-06-29,9,6780.01
+135,Porfirio Narváez,Querétaro,2024-06-29,12,6371.26
+136,Arcelia Rivero,Monterrey,2024-07-02,6,3861.5
+137,Cecilia Helena Concepción,CDMX,2024-07-02,11,8622.11
+138,Amalia Rodríguez,Querétaro,2024-07-07,6,3535.38
+139,Andrés Cabrera Morales,Monterrey,2024-07-08,11,9201.08
+140,Dra. Hermelinda Amaya,Monterrey,2024-07-08,7,6638.29
+141,Pascual Eugenio Bustamante Pichardo,CDMX,2024-07-11,8,5845.08
+142,Débora Claudia Guajardo,Toluca,2024-07-11,2,271.54
+143,Oswaldo Galindo,Toluca,2024-07-16,8,4528.05
+144,Celia Tello Pichardo,CDMX,2024-07-17,10,7093.89
+145,María Cristina Isabela Fuentes,Puebla,2024-07-17,10,6028.0
+146,Lic. Rolando Zepeda,Xicotepec de Juárez,2024-07-17,6,3775.62
+147,Arcelia Dolores Estévez Carrillo,Querétaro,2024-07-20,9,8488.95
+148,José Zacarías Cotto,Toluca,2024-07-20,6,4289.93
+149,Eric Felix Prieto,CDMX,2024-07-21,7,4895.18
+150,Marco Antonio Angulo,Puebla,2024-07-21,8,5068.55
+151,Carolina Jiménez,CDMX,2024-07-21,12,8304.78
+152,Ing. Leonardo Aguirre,Xicotepec de Juárez,2024-07-22,8,4381.53
+153,Miriam María Cristina Laboy Moreno,Puebla,2024-07-23,4,2482.81
+154,Carlota Barbara Colón Valencia,Pantepec,2024-07-23,11,9781.76
+155,José Carlos Reséndez,Guadalajara,2024-07-23,13,8916.7
+156,Rebeca Salma Villaseñor,Monterrey,2024-07-26,9,6433.52
+157,Rolando Mena Hernández,CDMX,2024-07-26,8,4649.03
+158,Miguel Miguel Ángel Montemayor,CDMX,2024-07-30,9,8874.62
+159,Mitzy Tamez,Monterrey,2024-07-30,3,2543.46
+160,Hernán Ignacio Archuleta,Guadalajara,2024-07-31,8,4786.91
+161,Silvano Alfredo Barrios,Puebla,2024-08-02,9,6212.65
+162,Margarita Valle,Guadalajara,2024-08-03,6,2816.32
+163,Juan Carlos Samuel Reyes,Monterrey,2024-08-03,6,4658.33
+164,Ing. Natalia Alonzo,Xicotepec de Juárez,2024-08-06,5,4320.7
+165,Jaime Daniel Amador Cantú,Querétaro,2024-08-07,8,6619.58
+166,Arcelia Claudia Téllez,Monterrey,2024-08-07,9,7393.37
+167,Sr. Alonso Batista,Toluca,2024-08-10,6,2230.23
+168,Lic. Bianca Mesa,Monterrey,2024-08-10,8,5250.16
+169,Iván Modesto Guardado Medina,Puebla,2024-08-12,6,6292.65
+170,Vanesa Elvira Pabón Griego,CDMX,2024-08-13,6,3009.88
+171,Graciela Peralta,CDMX,2024-08-13,6,3344.79
+172,Óscar Haro Yáñez,Toluca,2024-08-15,6,5253.43
+173,Mario Eugenio Carrera Villalobos,Querétaro,2024-08-17,6,6045.72
+174,Paulina Juana Rosas Tamayo,Toluca,2024-08-20,9,5915.11
+175,Pablo Gamez Olivo,CDMX,2024-08-20,8,4513.95
+176,Raúl Rivero Cintrón,Guadalajara,2024-08-20,8,6248.36
+177,Dr. Ramiro Martínez,Guadalajara,2024-08-21,1,587.76
+178,Lic. Santiago Alvarez,Guadalajara,2024-08-22,5,3100.35
+179,Raquel Solís de la Crúz,Xicotepec de Juárez,2024-08-22,9,5321.55
+180,Blanca Valladares,CDMX,2024-08-22,12,6122.72
+181,Dulce Villa Benítez,Pantepec,2024-08-26,5,2893.51
+182,Claudia Reyna,Monterrey,2024-08-27,6,3835.06
+183,Beatriz Barbara Pelayo,Toluca,2024-08-28,8,4907.73
+184,Abril Elvira Estrada,Guadalajara,2024-08-30,7,4363.12
+185,Guillermo de la O Sosa,Xicotepec de Juárez,2024-09-01,6,4256.16
+186,Ing. Benito Herrera,Querétaro,2024-09-02,6,5921.14
+187,Alfonso Flavio Valenzuela Carrillo,Monterrey,2024-09-02,5,3191.22
+188,Nayeli Sonia Aranda Moya,CDMX,2024-09-03,4,2978.82
+189,Micaela Ruby Aragón Espinal,Puebla,2024-09-04,5,2507.01
+190,Amelia Florencia Bustos de la Garza,Puebla,2024-09-06,8,6691.38
+191,Homero Felix Aguilar,Xicotepec de Juárez,2024-09-09,4,2856.6
+192,Sr. Modesto Huerta,Xicotepec de Juárez,2024-09-09,12,9033.34
+193,Ricardo Emilio Trujillo,CDMX,2024-09-10,1,333.06
+194,Paola Toledo,Puebla,2024-09-10,7,2955.46
+195,Oswaldo Avilés,Puebla,2024-09-13,8,7344.67
+196,Irma Gil,,2024-09-13,3,1794.0
+197,Karina Rivera,Guadalajara,2024-09-15,6,5174.21
+198,Germán Alejandro Alejandro,CDMX,2024-09-17,5,3750.98
+199,Judith Noelia Burgos,Monterrey,2024-09-17,5,1966.91
+200,Tania Rosalia Domínguez de la Torre,Toluca,2024-09-18,8,6455.39
+201,Emilio Valdivia,Monterrey,2024-09-20,3,3276.96
+202,Patricio Miranda,Querétaro,2024-09-20,6,5960.83
+203,Eugenia Sessa de la Garza,Toluca,2024-09-23,3,1481.48
+204,Arcelia Aida Montañez Benavídez,CDMX,2024-09-23,2,2076.75
+205,Rufino Rafaél Guerrero Rojo,CDMX,2024-09-25,2,1534.6
+206,Javier Eric Saldaña Urbina,Monterrey,2024-09-26,5,4088.07
+207,Darío Abel Ojeda,Xicotepec de Juárez,2024-09-27,3,2201.17
+208,Pablo Luis Miguel Valverde,CDMX,2024-09-28,6,3772.54
+209,Micaela Moya Botello,CDMX,2024-09-29,3,2192.7
+210,Sra. Silvia Hernádez,CDMX,2024-10-01,6,3147.47
+211,Claudio Ocasio,Guadalajara,2024-10-07,9,5666.37
+212,Israel Villegas,Xicotepec de Juárez,2024-10-10,7,6140.78
+213,Lic. Conchita Maldonado,Querétaro,2024-10-11,6,6329.1
+214,Adela Anaya,Guadalajara,2024-10-15,5,3538.14
+215,Concepción Reynoso Villanueva,Toluca,2024-10-16,3,1752.41
+216,Germán Modesto Covarrubias,Puebla,2024-10-16,11,3722.56
+217,Lic. Soledad Romo,Xicotepec de Juárez,2024-10-17,12,6485.49
+218,Armando Cristian Acuña,Guadalajara,2024-10-19,7,5120.87
+219,Lic. Gloria Cordero,Puebla,2024-10-19,6,4835.06
+220,Esmeralda Alejandra Quiroz,Monterrey,2024-10-20,5,3539.11
+221,Dra. Catalina Olivárez,Toluca,2024-10-22,8,6394.94
+222,Martín Villagómez Casas,CDMX,2024-10-23,4,2620.65
+223,Gabino Jerónimo Quiroz,Puebla,2024-10-24,8,3284.63
+224,Juan Carlos Hernán Quiñones,Toluca,2024-10-24,6,3090.95
+225,Frida Esmeralda Ramírez Partida,Querétaro,2024-10-25,7,4771.55
+226,Francisca Graciela de la Garza Canales,Guadalajara,2024-10-28,6,5346.35
+227,Lic. Alicia Flores,Guadalajara,2024-10-29,2,938.41
+228,Ignacio Páez,Guadalajara,2024-10-29,7,5086.45
+229,Jerónimo de Jesús,Toluca,2024-10-29,4,3327.49
+230,Gabino Juan Carlos Cazares,CDMX,2024-10-31,3,3051.14
+231,Dra. Sessa Terán,Xicotepec de Juárez,2024-11-01,8,3993.25
+232,Diana Rocío Ulloa,CDMX,2024-11-02,8,6014.62
+233,Lic. Guillermo Montenegro,Monterrey,2024-11-04,3,3054.99
+234,Elvira Concepción Sauceda Madrid,Monterrey,2024-11-05,3,2567.22
+235,Zacarías Estévez Macías,Querétaro,2024-11-06,3,3460.01
+236,Marcos Santiago Castillo Rael,Querétaro,2024-11-07,8,6453.66
+237,Salma Marisol Bahena,CDMX,2024-11-07,4,4401.87
+238,Dra. Alta  Gracia Ybarra,Puebla,2024-11-07,8,6290.41
+239,Ilse Valenzuela,Xicotepec de Juárez,2024-11-08,3,1521.67
+240,Lic. Francisco Javier Téllez,Toluca,2024-11-09,9,6001.2
+241,Fabiola Santillán,CDMX,2024-11-09,5,2222.26
+242,Irene Ordóñez Sotelo,Xicotepec de Juárez,2024-11-09,13,7637.74
+243,Adalberto Pérez,Querétaro,2024-11-14,3,2160.17
+244,Lourdes Ontiveros,Monterrey,2024-11-19,4,2305.68
+245,Dra. Elvira Valdivia,Toluca,2024-11-20,8,3950.81
+246,Ing. Isabel Anaya,Pantepec,2024-11-20,6,3012.54
+247,Genaro Flavio del Río,Toluca,2024-11-23,3,1788.09
+248,Rosa Karina Rojas Cotto,CDMX,2024-11-23,4,3267.11
+249,Micaela Cynthia Niño,CDMX,2024-11-25,8,5203.94
+250,Ricardo Bravo Campos,Guadalajara,2024-11-26,7,2901.93
+251,Flavio Leonardo Castañeda,Monterrey,2024-11-26,8,5345.48
+252,Pilar Inés Sevilla Calvillo,Pantepec,2024-11-28,2,798.35
+253,Elsa Guillermina Márquez,Guadalajara,2024-11-30,7,6105.98
+254,Bernardo Barraza Mondragón,Monterrey,2024-11-30,6,3840.84
+255,Maximiliano Zeferino Pedraza Camacho,Xicotepec de Juárez,2024-12-01,3,1315.8
+256,Eugenio Rodolfo Ruelas,Puebla,2024-12-03,7,4491.32
+257,Perla Durán Castellanos,CDMX,2024-12-05,7,4211.83
+258,Jorge Luis Genaro Córdova,Xicotepec de Juárez,2024-12-06,10,7301.77
+259,María Elena Asunción Urbina Piña,Xicotepec de Juárez,2024-12-07,5,3144.62
+260,Bernabé Agustín Rivas Piña,Puebla,2024-12-07,4,2860.57
+261,Martín Pablo Ballesteros,Monterrey,2024-12-09,5,4771.57
+262,María José Irene Calvillo Arreola,Guadalajara,2024-12-10,4,2930.75
+263,Cristal Lourdes Barrientos,Querétaro,2024-12-11,7,4589.71
+264,Dr. Manuel Cardona,Guadalajara,2024-12-11,4,2401.15
+265,Claudia Alba Collado,Querétaro,2024-12-12,4,3476.46
+266,Lic. Georgina Holguín,Xicotepec de Juárez,2024-12-13,2,1693.23
+267,Aurora Verónica Gastélum,Toluca,2024-12-13,6,3380.03
+268,Ángela Partida Borrego,Monterrey,2024-12-13,5,5537.07
+269,Lic. Estefanía Matos,Puebla,2024-12-14,1,681.09
+270,Rocío Pamela Márquez,Toluca,2024-12-15,3,1848.7
+271,Tomás Soria,Monterrey,2024-12-16,6,2655.18
+272,Raúl Luis Miguel Hernandes Aponte,CDMX,2024-12-17,4,2645.91
+273,Reina Heredia,CDMX,2024-12-17,5,3627.21
+274,María Cristina López,Guadalajara,2024-12-18,4,879.54
+275,Esperanza Diana Villanueva,Puebla,2024-12-18,4,2403.32
+276,Citlali Isabel Sierra Mares,Xicotepec de Juárez,2024-12-18,4,3836.29
+277,Ing. César Zelaya,Guadalajara,2024-12-20,5,1699.05
+278,Abel Fajardo,Toluca,2024-12-21,1,440.88
+279,Lic. Ilse Matías,Guadalajara,2024-12-22,7,4208.38
+280,Jonás Lorenzo Pineda,Querétaro,2024-12-23,4,3250.05
+281,Ing. Rebeca Ocampo,Toluca,2024-12-25,3,2261.37
+282,José Manuél Marcos Regalado,Puebla,2024-12-26,9,7922.22
+283,Dra. Ofelia Ocasio,Monterrey,2024-12-29,3,1233.31
+284,Adriana Moya Olvera,Guadalajara,2024-12-29,3,1744.06
+285,Esmeralda Rosado Alarcón,CDMX,2024-12-31,2,2573.38
+286,Lilia Robledo Armendáriz,Toluca,2024-12-31,1,228.97
+287,Sra. Wendolin Lozano,Monterrey,2025-01-02,4,3121.78
+288,Natividad Ayala,Querétaro,2025-01-02,2,542.64
+289,Jesús Marcos Ibarra,CDMX,2025-01-02,4,2868.09
+290,Frida Wendolin Hinojosa,Monterrey,2025-01-03,5,3923.21
+291,Felix Gamez Baeza,Monterrey,2025-01-05,3,1462.51
+292,Gabino Ernesto Arroyo,Toluca,2025-01-06,7,5305.48
+293,Rosa Tirado Reyes,Monterrey,2025-01-07,4,2388.17
+294,Vicente René Sevilla,CDMX,2025-01-09,4,2780.42
+295,Sra. Florencia Castro,Monterrey,2025-01-09,2,1381.85
+296,Luis Miguel Gabino Carrión,CDMX,2025-01-09,7,4542.93
+297,Camilo Arturo Villalpando,Guadalajara,2025-01-09,4,1519.6
+298,Alta  Gracia Carlota Quintana,Guadalajara,2025-01-10,4,4018.92
+299,Aldonza Llamas,Puebla,2025-01-10,4,2591.37
+300,Ivonne Noelia Quintana,Puebla,2025-01-12,7,4738.06
+301,Amador Pedroza,Pantepec,2025-01-13,5,5192.38
+302,Dr. Gustavo Terán,Xicotepec de Juárez,2025-01-14,5,2942.83
+303,Uriel Leonardo Arriaga Barrientos,Puebla,2025-01-14,4,3164.69
+304,Olga Lilia Romo Quintana,Pantepec,2025-01-15,4,2357.41
+305,Abel Hugo Cabrera Cazares,Puebla,2025-01-15,9,5709.33
+306,Dalia Estela Ríos,Xicotepec de Juárez,2025-01-15,2,1864.2
+307,Rosalia Corona,Guadalajara,2025-01-16,5,2973.33
+308,Javier Crespo,Puebla,2025-01-17,3,2477.57
+309,Sr. Camilo Espinoza,Guadalajara,2025-01-17,5,3073.25
+310,Judith Ángela Murillo Ornelas,Pantepec,2025-01-18,4,3058.72
+311,Abraham José Emilio Velázquez,Puebla,2025-01-18,3,2310.34
+312,Hernán Rodolfo Gaona,Querétaro,2025-01-20,2,1609.04
+313,Jorge Hidalgo,Monterrey,2025-01-20,3,3518.38
+314,Israel René Valenzuela,Guadalajara,2025-01-20,5,3132.65
+315,Ricardo Arturo Garza,Xicotepec de Juárez,2025-01-20,5,4733.87
+316,Noelia Irene Chapa de la Rosa,Puebla,2025-01-21,4,1843.08
+317,Evelio Rodolfo Hernádez Casares,Puebla,2025-01-21,1,1049.0
+318,Esmeralda Patricia Rodríguez,CDMX,2025-01-22,2,366.39
+319,Cynthia Escobedo Domínguez,Querétaro,2025-01-22,3,2683.1
+320,María José Barragán Yáñez,Monterrey,2025-01-23,2,1366.66
+321,Zacarías Hugo Téllez Arroyo,CDMX,2025-01-23,5,2210.07
+322,Inés Gastélum,Querétaro,2025-01-26,3,1438.23
+323,Lic. Alejandro Magaña,Puebla,2025-01-27,2,1011.14
+324,Gustavo Mauro Orozco Candelaria,Querétaro,2025-01-28,6,4226.04
+325,Iván Castañeda,Puebla,2025-01-30,6,4332.81
+326,Lic. Arturo Roque,Toluca,2025-01-30,5,5379.93
+327,Eva Lugo Ceja,Puebla,2025-01-30,5,4399.36
+328,Armando Lovato Puga,CDMX,2025-01-31,6,4640.81
+329,Felipe Felipe Toledo,Pantepec,2025-02-02,6,2439.08
+330,Aldo Mascareñas Ferrer,Querétaro,2025-02-02,4,5620.11
+331,Zeferino Matos Cabrera,CDMX,2025-02-03,8,6208.58
+332,Lic. Ramiro Patiño,Puebla,2025-02-04,2,1993.93
+333,Natalia Gaona Arias,CDMX,2025-02-05,3,2030.28
+334,Teresa Velásquez Salcedo,CDMX,2025-02-07,2,1657.31
+335,Vanesa Lourdes Bañuelos Monroy,Puebla,2025-02-07,0,0.0
+336,Débora Toro Hernández,CDMX,2025-02-08,2,3112.1
+337,Salma Sosa,CDMX,2025-02-08,4,1751.6
+338,Leonor Terrazas Blanco,Monterrey,2025-02-08,5,4387.08
+339,Marcos Rivero Ávila,Monterrey,2025-02-09,6,5402.45
+340,Sra. María Eugenia Concepción,Guadalajara,2025-02-11,4,3086.52
+341,Leonor Bianca Moya Casas,CDMX,2025-02-12,4,3403.57
+342,Sr. Germán Pichardo,Querétaro,2025-02-12,2,946.23
+343,Fernando Ledesma,CDMX,2025-02-17,7,5585.06
+344,Maximiliano Aguirre,Guadalajara,2025-02-18,1,875.71
+345,Alfonso Raúl Roldán,Toluca,2025-02-18,6,3272.04
+346,Concepción Orta Centeno,Guadalajara,2025-02-19,9,7791.93
+347,Tomás Madera,Xicotepec de Juárez,2025-02-19,2,1339.38
+348,Iván Marcos Llamas Pichardo,Xicotepec de Juárez,2025-02-19,8,4604.77
+349,Noelia Lucía Fernández,Guadalajara,2025-02-20,4,2229.31
+350,Leonardo José María Nazario,Pantepec,2025-02-20,0,0.0
+351,Uriel Tórrez,Querétaro,2025-02-22,7,3183.11
+352,Lic. Virginia Saiz,Querétaro,2025-02-22,6,5408.1
+353,Ing. Gerardo Menéndez,Monterrey,2025-02-23,4,1693.53
+354,Araceli Esquivel,Querétaro,2025-02-24,4,2862.53
+355,Dr. Aurelio Rincón,CDMX,2025-02-24,3,2575.07
+356,Francisco Francisco Javier Mares Palomo,CDMX,2025-02-24,3,2346.48
+357,María Amalia Lara López,CDMX,2025-02-24,2,1119.46
+358,Alonso Hernán Rivera,Xicotepec de Juárez,2025-02-24,1,460.81
+359,Victoria Barrera Ontiveros,Xicotepec de Juárez,2025-02-26,3,1794.94
+360,Mercedes Prado,Monterrey,2025-02-27,4,1128.2
+361,Linda Bustos Casares,Xicotepec de Juárez,2025-02-28,2,1588.38
+362,Sr. Andrés Solorio,Querétaro,2025-03-01,3,2208.31
+363,Gerónimo Jerónimo Velázquez Matías,CDMX,2025-03-03,8,6562.11
+364,Guillermo Jimínez,,2025-03-05,6,5173.33
+365,Horacio de la Rosa Valles,Puebla,2025-03-06,3,2381.09
+366,Lic. Homero Rico,Puebla,2025-03-06,4,3390.55
+367,Yolanda Benavídez,Querétaro,2025-03-08,3,2601.5
+368,Camila Jáquez,Xicotepec de Juárez,2025-03-08,6,4082.61
+369,Lic. Abraham Duarte,Guadalajara,2025-03-08,3,1797.22
+370,Arcelia Rosa Nevárez,Xicotepec de Juárez,2025-03-08,8,4328.66
+371,Noemí Vanesa Aguilar,Guadalajara,2025-03-10,4,2129.05
+372,Abigail Barrios,Xicotepec de Juárez,2025-03-11,6,4050.46
+373,Adán Arias Martínez,Monterrey,2025-03-11,4,4100.09
+374,Adán Agustín Saiz Ávalos,Pantepec,2025-03-12,2,860.2
+375,Silvano Cardenas Quiroz,Xicotepec de Juárez,2025-03-17,3,1379.88
+376,Federico Villegas Cortés,Querétaro,2025-03-19,1,331.73
+377,Débora Dulce María Arellano Niño,Querétaro,2025-03-20,6,5186.49
+378,Alma Débora Arce Marrero,Toluca,2025-03-21,3,2529.24
+379,Martha Romero,Pantepec,2025-03-22,4,3309.35
+380,Verónica Mónica Caldera Peres,Guadalajara,2025-03-22,4,3191.2
+381,Ángela Aurora Magaña,Xicotepec de Juárez,2025-03-24,5,3688.69
+382,Elvia Isabel Botello,CDMX,2025-03-25,0,0.0
+383,Abelardo Esteban Anaya,Puebla,2025-03-25,4,1559.19
+384,Pedro Guajardo,Puebla,2025-03-29,0,0.0
+385,Alvaro Magaña Adame,Monterrey,2025-03-29,5,5364.12
+386,Abel Aguilar,Querétaro,2025-03-30,1,208.38
+387,Dr. Julio Estrada,Toluca,2025-03-30,5,3929.56
+388,Araceli Lucía Salcedo Calvillo,CDMX,2025-04-02,4,3823.48
+389,Irene Domínguez Villareal,Guadalajara,2025-04-02,4,4236.18
+390,Alonso Bonilla,CDMX,2025-04-03,3,2457.27
+391,Luis Miguel Mario Arias Segura,CDMX,2025-04-03,6,2869.8
+392,Eduardo Tomás Rascón,Toluca,2025-04-03,5,2784.16
+393,Alejandra Ilse Samaniego Zayas,CDMX,2025-04-04,3,1041.12
+394,Serafín Wilfrido de la O Figueroa,CDMX,2025-04-04,9,7872.32
+395,Lic. Andrea Espinal,Monterrey,2025-04-04,1,460.81
+396,Óscar Ballesteros,CDMX,2025-04-09,4,2252.07
+397,Omar Bruno Sepúlveda Perea,Querétaro,2025-04-10,1,800.11
+398,José Luis Rodrigo Casares,Monterrey,2025-04-12,2,1315.67
+399,Serafín Teodoro Zamudio Caraballo,Pantepec,2025-04-12,1,469.02
+400,Lic. Agustín Padrón,Xicotepec de Juárez,2025-04-14,7,5322.96
+401,Indira Graciela Hurtado Tovar,Monterrey,2025-04-14,7,6169.2
+402,Ana Luisa Piña Ortega,Monterrey,2025-04-15,4,1549.02
+403,Jesús Caldera,Pantepec,2025-04-15,3,1997.59
+404,Marisol Liliana Sisneros,Toluca,2025-04-16,6,2436.01
+405,Jaime Santiago Rivas Estévez,Puebla,2025-04-16,4,1997.84
+406,Sr. Darío Jáquez,Pantepec,2025-04-17,1,2099.42
+407,Mauro Emiliano Ocampo,Puebla,2025-04-19,5,5762.05
+408,Dr. Lucas Ortiz,CDMX,2025-04-20,4,2581.03
+409,Rafaél Enrique Vega Alvarado,Xicotepec de Juárez,2025-04-21,4,2291.97
+410,Srita. Adriana Suárez,Xicotepec de Juárez,2025-04-21,4,2257.17
+411,Jacinto Elias Correa Amador,Puebla,2025-04-21,3,3297.07
+412,Dr. Lorenzo Dávila,Xicotepec de Juárez,2025-04-22,4,1195.0
+413,Elena Robles,Puebla,2025-04-22,3,2022.59
+414,Teodoro Nava Armendáriz,Xicotepec de Juárez,2025-04-22,6,5546.99
+415,Ana María Sessa Casares,CDMX,2025-04-22,3,1529.96
+416,Miriam Villalobos,Monterrey,2025-04-23,1,648.37
+417,Margarita Alba,Xicotepec de Juárez,2025-04-24,1,704.88
+418,Sr. Jacobo Casárez,CDMX,2025-04-25,4,2270.05
+419,Nancy Ana Cantú Gonzales,Guadalajara,2025-04-27,1,1349.46
+420,Zeferino Collazo,CDMX,2025-04-27,3,2200.95
+421,Conchita Olivo Villareal,CDMX,2025-04-28,2,1200.96
+422,Luisa Esquivel Rodrígez,CDMX,2025-04-28,3,2608.99
+423,Carlota Rocha,CDMX,2025-04-29,0,0.0
+424,Verónica Alma Segura,Puebla,2025-04-30,5,3828.88
+425,Bernardo Sergio Padrón Cardona,CDMX,2025-05-01,10,5411.98
+426,Bernardo Eugenio Tafoya Montaño,Guadalajara,2025-05-03,5,4765.55
+427,Ana María María Arguello,CDMX,2025-05-04,2,1109.72
+428,Emilio Cazares Gallardo,Toluca,2025-05-07,3,2651.03
+429,Leonor Venegas,Pantepec,2025-05-08,1,250.94
+430,Pilar Hilda Flores,Puebla,2025-05-08,4,1215.79
+431,Dr. Cristian Salas,Querétaro,2025-05-08,2,1688.39
+432,Lic. Jaime Mayorga,Puebla,2025-05-10,8,7296.57
+433,Antonio Ferrer Nájera,Monterrey,2025-05-10,4,2061.85
+434,Amador Amador Pulido,Monterrey,2025-05-10,2,2846.98
+435,Omar Batista,Querétaro,2025-05-11,5,2506.21
+436,Anel Sessa Castañeda de la O,Puebla,2025-05-14,5,3244.32
+437,Dr. Genaro Navarrete,Toluca,2025-05-16,4,2865.81
+438,Luis Manuel Jonás Urrutia,CDMX,2025-05-18,5,3649.78
+439,Alta  Gracia Villegas Valadez,Puebla,2025-05-18,0,0.0
+440,Natividad Aida Cantú,Monterrey,2025-05-20,6,4675.1
+441,Esmeralda Gamboa Cardenas,Xicotepec de Juárez,2025-05-22,3,3945.88
+442,Ángela Amalia Esquivel,Xicotepec de Juárez,2025-05-23,3,3607.05
+443,Diego Díaz Montoya,CDMX,2025-05-23,3,1120.24
+444,Eloy Cardona Moreno,Monterrey,2025-05-25,1,1076.78
+445,Abel José Luis Carvajal Bravo,Xicotepec de Juárez,2025-05-26,4,2130.69
+446,Dr. Timoteo Henríquez,Querétaro,2025-05-26,2,1646.26
+447,Pedro Fidel Lomeli,Monterrey,2025-05-27,2,3150.43
+448,Rufino Adán Tafoya,Guadalajara,2025-05-28,2,1201.0
+449,Fidel Pedro Padrón Barraza,Xicotepec de Juárez,2025-05-29,2,1194.03
+450,José Manuél Centeno,Pantepec,2025-05-31,1,648.37
+451,Cristobal Esteban del Río,Puebla,2025-06-01,1,1250.45
+452,Ramiro Ocasio,Querétaro,2025-06-01,3,2376.55
+453,Óscar Tejada,Querétaro,2025-06-01,4,2847.08
+454,Mariana Karla Arredondo Longoria,Guadalajara,2025-06-01,2,1744.33
+455,José Eduardo Magaña de la Torre,CDMX,2025-06-02,3,1738.84
+456,Lic. Ramiro Meléndez,Puebla,2025-06-04,4,4373.99
+457,Dr. Gonzalo Cintrón,Monterrey,2025-06-05,4,1056.67
+458,Lucía Estela Batista Cortez,Guadalajara,2025-06-05,6,5780.48
+459,Ing. Gloria Herrera,Guadalajara,2025-06-05,1,170.22
+460,Leonor Laura Arenas Leal,Monterrey,2025-06-05,2,2355.92
+461,Araceli Elena Gil Ornelas,Pantepec,2025-06-06,1,228.17
+462,José Eduardo Molina Alonso,Monterrey,2025-06-06,1,1332.79
+463,Lic. José Emilio Rendón,Monterrey,2025-06-14,5,2700.41
+464,Salvador Paz Arriaga,CDMX,2025-06-14,3,1661.12
+465,Lourdes Jaimes Garay,Xicotepec de Juárez,2025-06-14,3,3220.8
+466,Felix Saucedo,Querétaro,2025-06-16,1,1049.0
+467,Tania Raquel de la Crúz Ordóñez,Querétaro,2025-06-17,5,5606.21
+468,María Teresa Rivera,Toluca,2025-06-18,5,2803.42
+469,Abraham Zacarías Zapata,Puebla,2025-06-19,4,1283.34
+470,Eva Esparta Llamas,Xicotepec de Juárez,2025-06-21,1,1049.0
+471,Pilar Georgina Armendáriz,CDMX,2025-06-21,3,1103.56
+472,Maximiliano Domínguez,Querétaro,2025-06-22,3,1936.73
+473,Jacobo Perales Tirado,Toluca,2025-06-22,0,0.0
+474,Cristian Peres,CDMX,2025-06-24,2,754.0
+475,Teresa Abril Romero,CDMX,2025-06-24,2,1230.95
+476,Julia Santacruz Villarreal,CDMX,2025-06-25,4,1972.88
+477,Irma Angélica Paredes,Puebla,2025-06-25,6,3922.81
+478,Sr. Pablo Valenzuela,Toluca,2025-06-25,3,3116.92
+479,Concepción Armendáriz,CDMX,2025-06-29,3,1899.07
+480,Salvador Prado,Toluca,2025-06-29,5,5007.2
+481,Espartaco Alejandro Vera Tejada,Querétaro,2025-06-29,3,2130.37
+482,Leticia Olga Mercado Guzmán,Puebla,2025-06-30,1,813.91
+483,Ing. Araceli Carreón,Toluca,2025-06-30,4,3972.93
+484,Alberto Varela Sisneros,Monterrey,2025-07-01,5,1330.99
+485,Ing. Leticia Alonzo,Pantepec,2025-07-02,1,650.54
+486,Ernesto Saucedo Cavazos,Monterrey,2025-07-03,1,240.8
+487,Adalberto Oswaldo Alfaro Brito,Guadalajara,2025-07-03,3,2830.15
+488,Rocío Carolina Soliz,Toluca,2025-07-03,3,1215.85
+489,Ing. Esteban Samaniego,Guadalajara,2025-07-03,4,2407.8
+490,Carmen Ávalos,CDMX,2025-07-04,5,4765.92
+491,Cecilia Esther Jáquez,Monterrey,2025-07-07,5,4347.7
+492,Antonio Robles,CDMX,2025-07-07,3,2087.85
+493,Estela Lorena Olmos Juárez,Monterrey,2025-07-08,3,2528.87
+494,Emilio Franco,Puebla,2025-07-09,4,3296.98
+495,Marcos Nicolás Quiñónez,Xicotepec de Juárez,2025-07-10,0,0.0
+496,Perla Celia Bravo Llamas,Guadalajara,2025-07-10,1,1057.06
+497,José Manuél Flavio Longoria,Puebla,2025-07-12,3,980.7
+498,Lic. Tomás Orta,Puebla,2025-07-13,2,769.04
+499,Carla Sara Montoya de León,Querétaro,2025-07-14,3,1585.09
+500,Renato Silvano Velásquez,Guadalajara,2025-07-15,1,702.13
+501,Fernando Gálvez de la Garza,Xicotepec de Juárez,2025-07-16,0,0.0
+502,Cristian Marcos Ortiz,Monterrey,2025-07-19,4,2570.16
+503,Liliana Villanueva,Xicotepec de Juárez,2025-07-21,4,2356.91
+504,Emilio Miguel Ángel Burgos Garay,Querétaro,2025-07-22,7,4140.06
+505,Cynthia Casanova,Monterrey,2025-07-24,1,1226.3
+506,Rubén Héctor Sáenz Bustamante,Monterrey,2025-07-24,0,0.0
+507,Sonia Amaya Cavazos,Querétaro,2025-07-25,4,2365.02
+508,Dra. Catalina Durán,Puebla,2025-07-28,2,1071.65
+509,Óscar Lozano de la Torre,Querétaro,2025-07-29,4,3207.3
+510,Judith Mayorga Saldivar,CDMX,2025-07-29,4,3660.55
+511,Lic. Cynthia Rodarte,CDMX,2025-07-29,4,2543.83
+512,Omar Lorenzo Gamboa,CDMX,2025-07-29,4,1595.91
+513,Ing. Eduardo Posada,CDMX,2025-07-30,3,2204.42
+514,Marco Antonio Holguín Mascareñas,CDMX,2025-07-31,6,4335.39
+515,Arturo Bernal Loya,Xicotepec de Juárez,2025-07-31,3,2820.13
+516,Reina Llamas Partida,Guadalajara,2025-07-31,0,0.0
+517,Salvador Posada Muro,Guadalajara,2025-08-02,4,4794.83
+518,Eva Mendoza,Guadalajara,2025-08-03,1,853.51
+519,Aldo Reynoso Jasso,Monterrey,2025-08-04,2,430.08
+520,Guillermina Carrillo,Monterrey,2025-08-05,1,866.06
+521,Sr. Abel Carrasco,Guadalajara,2025-08-06,3,1505.93
+522,Genaro Barela,Guadalajara,2025-08-06,5,3258.96
+523,Lourdes Arias Holguín,Monterrey,2025-08-07,5,2960.43
+524,Rodolfo Fajardo Rivera,Guadalajara,2025-08-07,2,2535.08
+525,Anel Meraz,Guadalajara,2025-08-08,3,2930.3
+526,Ing. Anabel Alejandro,,2025-08-09,3,1963.27
+527,Ángel Claudio Velásquez,Guadalajara,2025-08-09,2,834.94
+528,Yeni Lira Irizarry,Monterrey,2025-08-11,4,2183.77
+529,Lic. Antonio Navarro,Pantepec,2025-08-12,3,1572.71
+530,José Omar Montero,Xicotepec de Juárez,2025-08-13,1,366.58
+531,Wilfrido Cervantes,Monterrey,2025-08-13,5,3433.55
+532,Alvaro Enrique Montoya,Toluca,2025-08-13,2,2161.2
+533,Sr. Zeferino de Anda,Guadalajara,2025-08-14,3,1087.47
+534,Roberto Patricio Bahena,Guadalajara,2025-08-16,3,1916.96
+535,Ing. Gerónimo Benítez,Guadalajara,2025-08-17,2,2785.46
+536,Dr. Francisco Ruelas,Guadalajara,2025-08-17,1,144.75
+537,Flavio Olivas,Puebla,2025-08-17,4,3442.43
+538,Ing. Norma Matos,Puebla,2025-08-17,2,1278.83
+539,Luis Manuel Ramón Mena,Guadalajara,2025-08-19,4,3102.66
+540,Dr. Gustavo Riojas,CDMX,2025-08-20,3,1834.85
+541,Ing. Pedro Alba,Puebla,2025-08-20,1,460.81
+542,Paola Jaramillo Zelaya,Toluca,2025-08-21,1,1226.3
+543,Amanda Ochoa,Monterrey,2025-08-21,6,2457.78
+544,Itzel Solorio Moreno,Xicotepec de Juárez,2025-08-23,3,2144.85
+545,Carlota Helena Durán,CDMX,2025-08-24,2,2342.85
+546,Estela Medrano,Puebla,2025-08-25,2,1672.69
+547,Ángela Miriam Pérez,Puebla,2025-08-28,4,3663.6
+548,Gregorio Anaya,Toluca,2025-08-28,4,1747.69
+549,Laura Bonilla Gálvez,Toluca,2025-08-30,0,0.0
+550,Marisol Nájera Altamirano,Monterrey,2025-08-30,0,0.0
+551,Paola Violeta Llamas,Pantepec,2025-09-01,2,719.47
+552,Luis Manuel Juan Carlos Toledo Casárez,CDMX,2025-09-02,1,293.88
+553,Dr. Gerónimo Benavídez,Xicotepec de Juárez,2025-09-03,3,948.55
+554,Reina Angélica Laboy Garibay,Guadalajara,2025-09-04,6,3755.73
+555,Óscar Lara Rincón,CDMX,2025-09-04,5,2599.51
+556,Magdalena Judith Esquivel Vaca,CDMX,2025-09-04,4,3432.88
+557,Sara Páez,Monterrey,2025-09-05,1,1221.46
+558,Sra. Nancy Alba,Monterrey,2025-09-05,3,2123.31
+559,Ing. Augusto Solís,Querétaro,2025-09-07,1,293.88
+560,Andrea Eloisa Hernádez,Puebla,2025-09-09,2,1923.94
+561,Marco Antonio Martínez Piña,Toluca,2025-09-09,2,872.13
+562,Camilo Jimínez,Monterrey,2025-09-09,4,3392.81
+563,Serafín Muro,Puebla,2025-09-10,3,1688.96
+564,Lic. César Segura,CDMX,2025-09-10,4,1868.44
+565,Mateo Montez Olivas,CDMX,2025-09-12,2,1088.12
+566,Nadia Beatriz Saldivar Colunga,Monterrey,2025-09-14,2,1234.54
+567,Lic. Leonel Lucio,Querétaro,2025-09-15,4,2203.45
+568,Enrique Diego Alcántar,Xicotepec de Juárez,2025-09-15,2,1829.68
+569,Pascual Gustavo Ulibarri Miranda,Monterrey,2025-09-17,2,1291.54
+570,Joaquín Rodolfo Alonzo Cortez,Pantepec,2025-09-17,2,621.69
+571,Rosario Robledo Quiroz,Puebla,2025-09-17,1,293.88
+572,Anabel Ruelas,Querétaro,2025-09-18,2,3548.85
+573,Minerva Micaela Salcido,CDMX,2025-09-18,3,785.23
+574,Esmeralda Vázquez,Xicotepec de Juárez,2025-09-20,0,0.0
+575,Lic. Leonor Casares,Xicotepec de Juárez,2025-09-20,4,2664.13
+576,Perla María Cristina Toledo Montaño,Toluca,2025-09-27,1,474.43
+577,Marisela Mojica Patiño,Querétaro,2025-09-27,0,0.0
+578,Adela Jaqueline Murillo,Xicotepec de Juárez,2025-09-28,5,3658.14
+579,Dr. Luis Sáenz,Puebla,2025-09-28,0,0.0
+580,Reynaldo Treviño Salcido,CDMX,2025-09-28,3,2568.42
+581,Ilse Escobedo,CDMX,2025-09-29,3,1701.24
+582,Julio César Esteban Ibarra,CDMX,2025-09-30,5,2425.76
+583,Lic. Armando Sáenz,Xicotepec de Juárez,2025-10-01,1,947.07
+584,Esperanza Miriam Feliciano Palomo,CDMX,2025-10-01,1,546.9
+585,Sr. Felipe Chávez,Guadalajara,2025-10-02,5,4598.51
+586,Arturo Valverde Briseño,CDMX,2025-10-03,0,0.0
+587,Claudia Carlota Ayala Flores,Guadalajara,2025-10-03,1,333.06
+588,María Molina Aparicio,Guadalajara,2025-10-04,1,396.48
+589,Mónica Arias Roldán,Puebla,2025-10-05,1,617.8
+590,María Elena Mayte Miranda Madrid,Guadalajara,2025-10-06,0,0.0
+591,María José Villa Brito,Xicotepec de Juárez,2025-10-08,0,0.0
+592,César Olmos Verduzco,Toluca,2025-10-08,4,2163.92
+593,Srita. Reina Gallardo,CDMX,2025-10-09,4,2890.73
+594,Cynthia Cintrón,Pantepec,2025-10-12,4,3325.62
+595,Araceli María Teresa León Martínez,Xicotepec de Juárez,2025-10-14,1,247.08
+596,Hernán Fidel Maya,Monterrey,2025-10-15,1,938.48
+597,Clemente Jerónimo Velasco,Querétaro,2025-10-15,1,648.37
+598,Pablo Serrano,Puebla,2025-10-15,1,796.09
+599,Cynthia Leonor Palacios Rosales,CDMX,2025-10-16,1,322.45
+600,Lic. Augusto Maldonado,Monterrey,2025-10-17,1,335.54
+601,Daniela Carlota Garrido Bustos,Guadalajara,2025-10-17,3,2053.99
+602,Héctor José Luis Chacón Urbina,Monterrey,2025-10-17,3,1665.61
+603,María Luisa Berta Gastélum Delgadillo,Guadalajara,2025-10-17,2,2240.92
+604,Estela Esmeralda Alcántar Lucero,CDMX,2025-10-18,2,960.58
+605,Alfredo Vázquez,Pantepec,2025-10-18,1,1049.0
+606,Eugenia Concepción Solís,Puebla,2025-10-19,2,1242.09
+607,Jacinto Felix Casillas Macías,Monterrey,2025-10-19,3,1748.69
+608,Federico Miramontes,Toluca,2025-10-19,2,1284.47
+609,Sra. Micaela Fonseca,Puebla,2025-10-20,0,0.0
+610,Asunción Longoria,Puebla,2025-10-20,3,879.16
+611,Dra. María José Leyva,CDMX,2025-10-21,1,882.3
+612,Sr. Jerónimo Terán,Puebla,2025-10-22,2,1201.0
+613,Karla Claudia Rodríguez,Querétaro,2025-10-22,0,0.0
+614,Daniel José Emilio Cornejo,Querétaro,2025-10-22,1,732.86
+615,Isaac Collazo Ortega,CDMX,2025-10-23,2,1229.15
+616,Andrea Berríos Oquendo,Xicotepec de Juárez,2025-10-24,2,1587.41
+617,Julio César Zacarías Mojica Toro,Guadalajara,2025-10-25,2,1516.09
+618,José Carlos Bahena,Guadalajara,2025-10-26,1,322.45
+619,Modesto Augusto Arriaga Muro,Toluca,2025-10-26,2,1065.92
+620,Reynaldo Leonardo Moreno Vera,Monterrey,2025-10-26,4,1970.05
+621,Lic. Agustín Mejía,Monterrey,2025-10-26,1,322.45
+622,Arcelia Segura Garibay,Pantepec,2025-10-27,2,1346.01
+623,Adán Arce Regalado,Pantepec,2025-10-29,1,208.38
+624,Jacinto Juan Carlos Mena,Querétaro,2025-10-29,0,0.0
+625,Hermelinda Rascón Domínguez,Puebla,2025-10-31,4,4129.68
+626,Felix Gustavo Solorio Terán,Puebla,2025-10-31,2,1441.18
+627,Eloisa Arriaga,CDMX,2025-11-01,2,1310.26
+628,Eduardo Leonel Montalvo Hidalgo,Puebla,2025-11-04,3,1083.92
+629,Sra. Minerva Villalobos,Querétaro,2025-11-06,4,3406.35
+630,Claudia Garay,CDMX,2025-11-06,1,831.76
+631,Pascual Jaramillo,Querétaro,2025-11-06,1,276.07
+632,Abel Molina,Xicotepec de Juárez,2025-11-06,2,1961.17
+633,Sra. Verónica Pineda,Toluca,2025-11-08,4,2732.85
+634,Víctor Cristian Collazo,Guadalajara,2025-11-08,1,322.99
+635,Ivonne Helena Gonzales Mendoza,Guadalajara,2025-11-09,1,2138.92
+636,Dr. Guillermo Limón,Xicotepec de Juárez,2025-11-11,4,2562.48
+637,Estela Georgina Montez Bétancourt,Guadalajara,2025-11-11,2,1055.17
+638,Lic. Guadalupe Muro,CDMX,2025-11-11,4,1308.73
+639,Srita. Rebeca de Jesús,Guadalajara,2025-11-11,0,0.0
+640,Lic. Araceli Rivera,Toluca,2025-11-12,2,1058.68
+641,Evelio Palomo Bustos,Pantepec,2025-11-12,2,1625.81
+642,Rodrigo Quintero,Monterrey,2025-11-13,2,1515.02
+643,Abraham Gurule,Querétaro,2025-11-14,2,1099.31
+644,Itzel Carmen Pedraza Segovia,Puebla,2025-11-15,2,534.57
+645,Jacobo Salcido Solorio,Guadalajara,2025-11-16,2,601.22
+646,Ana Helena Carrera,Querétaro,2025-11-17,3,2878.97
+647,Dulce Rojas,Puebla,2025-11-18,2,2577.24
+648,Berta Carolina Mondragón,Guadalajara,2025-11-19,2,1459.13
+649,Santiago Valdés,Guadalajara,2025-11-19,1,374.08
+650,Jorge Nicolás Melgar Granado,CDMX,2025-11-19,4,4025.49
+651,Alta  Gracia María Eugenia Espinosa Amador,Querétaro,2025-11-20,2,2486.38
+652,Adela Varela,,2025-11-21,3,5459.33
+653,René Olivo Cortez,CDMX,2025-11-22,1,548.16
+654,María Elena Elena Ceja Pérez,Pantepec,2025-11-24,0,0.0
+655,Ing. Jerónimo Covarrubias,Guadalajara,2025-11-24,1,916.64
+656,Francisca Elena Pérez Ureña,Xicotepec de Juárez,2025-11-26,0,0.0
+657,Gustavo Flórez Casares,Querétaro,2025-11-27,2,580.55
+658,Humberto Canales Saiz,Puebla,2025-11-29,3,2413.05
+659,Lorenzo Benjamín Leal Chacón,Querétaro,2025-11-30,2,1534.84
+660,Joaquín Camilo Mayorga Cornejo,Puebla,2025-11-30,1,1256.29
+661,Leonardo Jonás Roybal,Xicotepec de Juárez,2025-11-30,2,1587.47
+662,Marcela Isabel Corrales,Guadalajara,2025-11-30,1,617.8
+663,Alejandra Itzel Valenzuela,Puebla,2025-11-30,2,1453.69
+664,Ramón Pedro Montenegro,Monterrey,2025-12-01,2,1971.91
+665,Olivia Esquivel,CDMX,2025-12-04,1,294.72
+666,Dulce María Cotto,CDMX,2025-12-05,0,0.0
+667,Lic. Alicia Ramón,Querétaro,2025-12-06,3,1554.54
+668,Alta  Gracia Raquel Cadena Garrido,Toluca,2025-12-09,1,322.99
+669,Mateo Jorge Samaniego,Pantepec,2025-12-09,1,272.4
+670,Julio Arreola Casares,CDMX,2025-12-10,1,944.22
+671,Perla Josefina Rosas,Pantepec,2025-12-10,4,1690.13
+672,Gabriela Estela Rangel,Toluca,2025-12-10,0,0.0
+673,Ing. Mercedes Guajardo,Toluca,2025-12-11,3,1598.2
+674,Lucía Mayte Vera Casanova,Guadalajara,2025-12-11,0,0.0
+675,María Wendolin Preciado Bañuelos,Toluca,2025-12-13,2,784.16
+676,Humberto Castillo,Monterrey,2025-12-14,3,2631.18
+677,Julio Martínez,CDMX,2025-12-17,1,853.51
+678,Ing. Violeta Ochoa,Toluca,2025-12-18,1,292.88
+679,Espartaco Pulido Ulibarri,CDMX,2025-12-18,0,0.0
+680,Mario Mesa,CDMX,2025-12-19,2,1199.5
+681,Lic. Homero Campos,Xicotepec de Juárez,2025-12-19,2,586.35
+682,Eva Salcedo Rolón,Querétaro,2025-12-20,2,1518.79
+683,Flavio Escobedo,Puebla,2025-12-20,1,1124.79
+684,Eva Sonia Gonzales Pichardo,Puebla,2025-12-21,0,0.0
+685,Úrsula Cynthia Alcaraz,Puebla,2025-12-21,2,1464.6
+686,Ing. Julio César Cadena,,2025-12-21,1,610.73
+687,Arcelia Casárez,Guadalajara,2025-12-22,2,963.5
+688,Elsa Galarza,Monterrey,2025-12-23,2,1161.72
+689,Nicolás René Enríquez,CDMX,2025-12-24,3,2668.08
+690,Jaime Márquez Aguilar,Puebla,2025-12-24,1,384.12
+691,Sr. José Manuél Gamboa,Pantepec,2025-12-25,0,0.0
+692,Camilo Luis Manuel Santana Rosales,Guadalajara,2025-12-25,0,0.0
+693,Miguel Ángel Sandoval Loera,Toluca,2025-12-27,0,0.0
+694,Dr. Benito Rentería,Monterrey,2025-12-28,1,673.74
+695,Luis Miguel Rosado,Puebla,2025-12-28,3,1267.58
+696,Araceli Escobar Salgado,Toluca,2025-12-29,2,892.97
+697,José Manuél Jos Medrano Portillo,CDMX,2025-12-30,2,2418.49
+698,Beatriz Quiñónez Marín,Querétaro,2026-01-01,0,0.0
+699,Camila Liliana Arevalo Ávila,Puebla,2026-01-02,0,0.0
+700,Darío Ángel del Río,Toluca,2026-01-02,2,359.58
+701,Julia Cristina Quintero,CDMX,2026-01-02,1,1124.79
+702,Ing. Diana Peralta,Xicotepec de Juárez,2026-01-05,1,198.82
+703,Sofía Lourdes Orosco Ponce,CDMX,2026-01-05,0,0.0
+704,Ing. Anel Ocasio,Toluca,2026-01-06,1,796.09
+705,Ing. Daniela Batista,CDMX,2026-01-06,2,3347.29
+706,Estela Natividad Vanegas,Monterrey,2026-01-06,3,2993.4
+707,Rufino Porfirio Leiva,Puebla,2026-01-06,2,1400.86
+708,Wilfrido Zambrano Gaitán,Toluca,2026-01-07,1,142.48
+709,Norma Vanesa Rocha Longoria,Guadalajara,2026-01-08,1,800.11
+710,Ing. Citlali Chacón,Xicotepec de Juárez,2026-01-08,0,0.0
+711,Ing. Zacarías Alarcón,CDMX,2026-01-10,1,2325.3
+712,Gilberto Ramírez Carrera,CDMX,2026-01-10,3,1193.33
+713,Gloria Ulibarri,Monterrey,2026-01-11,1,743.01
+714,Pablo Urbina Cruz,Xicotepec de Juárez,2026-01-12,1,299.41
+715,Raquel Inés Muñoz,Guadalajara,2026-01-12,2,934.08
+716,Israel Gálvez Zambrano,Monterrey,2026-01-12,2,2082.21
+717,Esmeralda Frida Alcaraz Córdova,CDMX,2026-01-13,2,1302.66
+718,Clara Camarillo Varela,CDMX,2026-01-13,1,335.54
+719,Amanda María Luisa Pulido,Puebla,2026-01-13,1,151.34
+720,Renato Piña,Monterrey,2026-01-15,2,1241.67
+721,Dulce Montero Carranza,CDMX,2026-01-15,1,228.97
+722,Sra. Florencia Rodríguez,Xicotepec de Juárez,2026-01-16,0,0.0
+723,Raúl Rascón Paredes,Guadalajara,2026-01-17,0,0.0
+724,Genaro Óliver Miranda,Xicotepec de Juárez,2026-01-17,2,582.62
+725,Gilberto Zamora Velasco,CDMX,2026-01-18,0,0.0
+726,Verónica Paulina Caraballo Osorio,Xicotepec de Juárez,2026-01-18,1,1049.0
+727,Daniel Julio Dueñas Loera,Guadalajara,2026-01-18,0,0.0
+728,Srita. Berta Ramón,Toluca,2026-01-18,0,0.0
+729,Mauricio Urías Santiago,Toluca,2026-01-19,0,0.0
+730,Frida Ilse Irizarry Vega,Guadalajara,2026-01-19,1,726.27
+731,Roberto Zeferino Iglesias Medrano,Guadalajara,2026-01-21,2,1189.42
+732,Daniel Emilio Monroy Alvarado,Monterrey,2026-01-22,1,813.91
+733,Dr. Jerónimo Bravo,Puebla,2026-01-23,1,322.45
+734,Ing. Lorena Armas,Puebla,2026-01-24,0,0.0
+735,Dr. Hugo Franco,Monterrey,2026-01-24,1,853.51
+736,Araceli Quintero,Puebla,2026-01-25,1,572.02
+737,Benito Lorenzo Tovar Espinoza,Pantepec,2026-01-25,1,920.64
+738,Lic. Ilse Olmos,Monterrey,2026-01-27,1,944.22
+739,Asunción Puga,CDMX,2026-01-28,2,1154.96
+740,Augusto Adán Ibarra Santillán,Puebla,2026-01-28,0,0.0
+741,Andrés Genaro Meléndez,CDMX,2026-01-29,2,1628.16
+742,Horacio Octavio Serna Raya,CDMX,2026-01-30,2,1753.44
+743,Débora Archuleta Apodaca,Toluca,2026-01-30,0,0.0
+744,Amanda Echeverría Salas,Guadalajara,2026-01-31,1,424.68
+745,Jaqueline Margarita Maldonado Santillán,Xicotepec de Juárez,2026-01-31,2,1657.48
+746,María Teresa Torres,Querétaro,2026-01-31,0,0.0
+747,Alfonso Arturo Alcántar,CDMX,2026-02-01,1,260.57
+748,Asunción Armendáriz,Guadalajara,2026-02-02,1,1124.79
+749,Felipe Daniel Aparicio Flórez,Guadalajara,2026-02-02,1,1201.68
+750,Marcos Noriega Jasso,Puebla,2026-02-03,0,0.0
+751,Marisol Angélica Castro Gracia,Puebla,2026-02-05,3,2220.88
+752,Lourdes Celia Tejeda Sáenz,Puebla,2026-02-07,1,309.61
+753,Alfonso Gustavo Montoya Guzmán,Xicotepec de Juárez,2026-02-07,1,610.73
+754,Armando Pacheco,CDMX,2026-02-08,0,0.0
+755,Raúl Rodolfo Cadena,Xicotepec de Juárez,2026-02-09,1,866.06
+756,Ing. Federico Esparza,Toluca,2026-02-09,2,771.24
+757,Karla Aida Aparicio Bustos,Monterrey,2026-02-10,2,1580.5
+758,Benito Espartaco Arteaga Ojeda,Guadalajara,2026-02-10,0,0.0
+759,Lourdes Berta Contreras,Puebla,2026-02-11,1,460.81
+760,Jerónimo Meza Vallejo,Toluca,2026-02-11,3,2792.01
+761,Eduardo Trujillo,Guadalajara,2026-02-11,1,635.75
+762,Jesús Agustín Salcido Arreola,Monterrey,2026-02-12,0,0.0
+763,Gilberto Lucas Narváez,Xicotepec de Juárez,2026-02-13,0,0.0
+764,Liliana Anabel Cazares Pizarro,Pantepec,2026-02-13,3,1928.98
+765,Violeta Cervantes Henríquez,Pantepec,2026-02-15,1,384.12
+766,Sra. Débora Urías,Toluca,2026-02-15,1,530.44
+767,Cornelio Héctor Olivera,Toluca,2026-02-16,3,888.85
+768,Alonso Fernando de la Garza Miranda,Querétaro,2026-02-17,2,619.3
+769,Natalia Guevara,Querétaro,2026-02-18,0,0.0
+770,Nicolás Bruno Núñez Escobedo,Toluca,2026-02-21,3,1518.84
+771,Santiago Chávez,Querétaro,2026-02-21,2,405.32
+772,Hermelinda Cardona,CDMX,2026-02-22,0,0.0
+773,Alvaro de la O Varela,Monterrey,2026-02-23,0,0.0
+774,Dr. Horacio Madera,Monterrey,2026-02-25,0,0.0
+775,Cornelio Homero Gurule Casárez,CDMX,2026-02-25,0,0.0
+776,Jaime Rodríquez,Monterrey,2026-02-26,0,0.0
+777,Cecilia Aurora Alcaraz Ulloa,Pantepec,2026-02-27,0,0.0
+778,Joaquín Raya,Guadalajara,2026-02-28,0,0.0
+779,Lic. Paulina Otero,Pantepec,2026-03-01,0,0.0
+780,Vicente Jerónimo Esquibel,Monterrey,2026-03-02,0,0.0
+781,Timoteo Mojica Nájera,,2026-03-04,3,2166.5
+782,Clemente Camilo Borrego Carreón,Puebla,2026-03-05,1,1885.8
+783,Mercedes Mariana Cintrón,Guadalajara,2026-03-05,1,645.53
+784,Salma Mena,CDMX,2026-03-08,3,3815.03
+785,Sr. Carlos Mayorga,Pantepec,2026-03-10,1,273.39
+786,María del Carmen Cristal Caraballo,Guadalajara,2026-03-11,0,0.0
+787,Beatriz Anel Escalante,Guadalajara,2026-03-12,0,0.0
+788,Claudio Julio César Urbina,CDMX,2026-03-12,1,1069.46
+789,Ing. Jos Montero,Puebla,2026-03-14,0,0.0
+790,Rosario Herrera,CDMX,2026-03-15,1,397.64
+791,Zacarías Jesús Sáenz,Toluca,2026-03-15,0,0.0
+792,Ramiro Esparza Lara,Guadalajara,2026-03-18,0,0.0
+793,Wilfrido Tello Gaona,Guadalajara,2026-03-18,2,506.96
+794,Dra. Dulce María Villanueva,Toluca,2026-03-18,0,0.0
+795,Sr. Camilo Villareal,Toluca,2026-03-18,3,2253.78
+796,Óscar Alvarado Barreto,Querétaro,2026-03-21,1,276.07
+797,Lic. Ricardo Iglesias,Puebla,2026-03-21,1,126.79
+798,Lic. Socorro Cavazos,Pantepec,2026-03-22,1,340.35
+799,Humberto Angulo Limón,CDMX,2026-03-23,1,705.17
+800,Sra. Mitzy Altamirano,Guadalajara,2026-03-24,0,0.0
+801,Tania Gonzales Mireles,Pantepec,2026-03-26,2,825.52
+802,Antonio Valles Cano,Pantepec,2026-03-27,4,1745.37
+803,Ing. Graciela Colón,Toluca,2026-03-27,1,916.64
+804,Alfredo Gutiérrez Lozano,Pantepec,2026-03-27,3,2682.27
+805,Mitzy Esther Correa,Toluca,2026-03-28,1,921.62
+806,Felipe Márquez Apodaca,CDMX,2026-03-29,1,853.51
+807,Juana Fabiola Camacho Narváez,Querétaro,2026-03-29,0,0.0
+808,Isaac Santiago Rojo Rendón,CDMX,2026-03-30,0,0.0
+809,Joaquín Godoy Godoy,Querétaro,2026-04-01,0,0.0
+810,Hermelinda Josefina Concepción,Monterrey,2026-04-03,1,136.2
+811,Ángel Carrasco Caldera,CDMX,2026-04-03,0,0.0
+812,Rodolfo Quintanilla Mejía,CDMX,2026-04-03,2,1831.06
+813,Alonso Samaniego,Pantepec,2026-04-03,1,238.25
+814,Adalberto Carrera Montañez,Guadalajara,2026-04-04,1,636.72
+815,Pablo Zedillo,Xicotepec de Juárez,2026-04-06,0,0.0
+816,Adalberto Bernardo Regalado,Querétaro,2026-04-09,1,538.39
+817,Octavio Cornelio Rocha de la Garza,Guadalajara,2026-04-11,1,1019.49
+818,Israel Jaime Verduzco Velásquez,Puebla,2026-04-11,0,0.0
+819,Sr. Homero Noriega,Toluca,2026-04-11,1,842.96
+820,Rufino Germán Bueno Esparza,Monterrey,2026-04-13,0,0.0
+821,Federico Samuel Angulo,Monterrey,2026-04-13,0,0.0
+822,Elias Ponce Jasso,Monterrey,2026-04-14,1,474.43
+823,Sr. Rolando Carrillo,Monterrey,2026-04-16,0,0.0
+824,Lorena Zarate,Puebla,2026-04-16,2,1555.1
+825,Ruby Fonseca Orta,Puebla,2026-04-16,1,796.09
+826,Juan Orozco Carvajal,Puebla,2026-04-17,2,832.52
+827,Ernesto Jáquez,Puebla,2026-04-18,0,0.0
+828,Ing. Ruby Munguía,Querétaro,2026-04-24,2,2128.88
+829,Sonia Tania Ruiz,CDMX,2026-04-24,0,0.0
+830,Lic. Isabela Camacho,Monterrey,2026-04-25,0,0.0
+831,Norma Esther Piña Lozano,Xicotepec de Juárez,2026-04-27,0,0.0
+832,Cristian Carranza,Guadalajara,2026-04-27,0,0.0
+833,Pablo Rocha Cazares,Puebla,2026-05-01,1,260.57
+834,Mariana Mejía Navarrete,Guadalajara,2026-05-02,0,0.0
+835,Timoteo Baeza Aparicio,Querétaro,2026-05-03,0,0.0
+836,Emilia Archuleta,Toluca,2026-05-03,1,1215.13
+837,Humberto Negrete,Monterrey,2026-05-05,0,0.0
+838,Dr. Jesús Corona,Guadalajara,2026-05-08,1,697.58
+839,Ing. Indira Arias,CDMX,2026-05-09,0,0.0
+840,María Elena Magdalena Estévez Villarreal,CDMX,2026-05-09,3,2931.01
+841,Ing. Adán Murillo,Pantepec,2026-05-10,1,371.71
+842,Isaac Flavio Serna,Toluca,2026-05-11,1,631.33
+843,Jorge Samuel Páez,Querétaro,2026-05-11,2,1177.68
+844,Sr. Alfonso Escobedo,Monterrey,2026-05-11,1,800.11
+845,Sr. Modesto Meza,CDMX,2026-05-12,0,0.0
+846,Emilio Elias Urrutia,Monterrey,2026-05-16,0,0.0
+847,Raúl Molina Prado,CDMX,2026-05-16,1,853.51
+848,Sra. Elsa Ochoa,Monterrey,2026-05-17,1,831.76
+849,Hugo Nazario,CDMX,2026-05-18,0,0.0
+850,Lic. Eduardo Patiño,Toluca,2026-05-20,0,0.0
+851,Ilse Reynoso,Puebla,2026-05-20,1,299.41
+852,César Fernando Ávila Niño,Monterrey,2026-05-20,0,0.0
+853,Marco Antonio César Palomo,Querétaro,2026-05-22,0,0.0
+854,Josefina Ilse Aguayo Miranda,Monterrey,2026-05-22,1,308.14
+855,Lucas Jesús Burgos Quiñónez,Guadalajara,2026-05-22,0,0.0
+856,Francisco Javier Grijalva Polanco,Guadalajara,2026-05-24,0,0.0
+857,Lic. Socorro Orosco,Querétaro,2026-05-28,0,0.0
+858,Dalia Solano Osorio,Monterrey,2026-05-29,2,1009.14
+859,Dr. Eugenio Roldán,Querétaro,2026-05-30,0,0.0
+860,Miriam Hermelinda Tovar,Guadalajara,2026-05-31,0,0.0
+861,Hugo Cepeda,,2026-05-31,1,176.32
+862,Ilse Isabela Ornelas Arias,CDMX,2026-05-31,0,0.0
+863,Gilberto Villagómez,Querétaro,2026-06-02,0,0.0
+864,Violeta Alta  Gracia Crespo,Toluca,2026-06-05,0,0.0
+865,Óscar Coronado,CDMX,2026-06-06,1,589.44
+866,Ing. Teresa Benítez,CDMX,2026-06-06,1,286.01
+867,Camilo Rosas,CDMX,2026-06-10,2,1071.71
+868,Graciela Ruelas,Guadalajara,2026-06-12,0,0.0
+869,Alonso Guillermo de la Garza,Monterrey,2026-06-12,3,1708.45
+870,Sr. Ricardo Serna,Puebla,2026-06-14,0,0.0
+871,Lic. Raúl Nieto,Guadalajara,2026-06-14,1,635.75
+872,Sessa de la Rosa Chapa,Monterrey,2026-06-15,1,831.76
+873,Hilda Escobedo,CDMX,2026-06-15,0,0.0
+874,Dra. Paola Serna,Querétaro,2026-06-16,1,697.58
+875,Srita. Yolanda Dueñas,,2026-06-17,0,0.0
+876,José María Zacarías Gallegos Cano,Xicotepec de Juárez,2026-06-17,1,596.55
+877,Víctor Molina Camarillo,Toluca,2026-06-18,0,0.0
+878,Martín Serafín Alba,Querétaro,2026-06-23,0,0.0
+879,Mauro Omar Montes Cisneros,Puebla,2026-06-24,0,0.0
+880,Luis Emiliano Bustamante,Xicotepec de Juárez,2026-06-25,0,0.0
+881,Ing. Luis Miguel Calvillo,,2026-06-27,0,0.0
+882,Homero Gamez,Querétaro,2026-06-30,1,198.82
+883,Lic. Olivia Matías,Xicotepec de Juárez,2026-07-01,1,683.26
+884,Ing. Ilse Hidalgo,Xicotepec de Juárez,2026-07-02,0,0.0
+885,Catalina Alma Murillo,Puebla,2026-07-04,0,0.0
+886,Eugenia Urbina Villareal,Xicotepec de Juárez,2026-07-08,0,0.0
+887,Martha Perales Jaramillo,Puebla,2026-07-08,0,0.0
+888,Cristobal Francisco Valdés Oquendo,CDMX,2026-07-09,0,0.0
+889,Luis Espartaco Meraz,Monterrey,2026-07-13,0,0.0
+890,Olga Olivares,Pantepec,2026-07-15,0,0.0
+891,Frida Paulina Mascareñas,Xicotepec de Juárez,2026-07-18,1,1250.45
+892,Mauro Bermúdez Flores,Monterrey,2026-07-19,0,0.0
+893,Elvia Mares Valladares,Puebla,2026-07-20,0,0.0
+894,Julio Treviño,Toluca,2026-07-21,1,533.22
+895,Eloisa Laura Reséndez,Toluca,2026-07-21,0,0.0
+896,Amelia Arteaga,Toluca,2026-07-23,0,0.0
+897,Gloria Bianca Rivera,Xicotepec de Juárez,2026-07-27,1,384.12
+898,José Valles,Xicotepec de Juárez,2026-08-03,0,0.0
+899,Gloria Mercedes Muñoz,Puebla,2026-08-06,0,0.0
+900,Julio Raúl Casas Sarabia,Puebla,2026-08-06,0,0.0
