@@ -36,3 +36,5 @@ Se configuraron reglas de negocio visuales para advertir al administrador ante e
 * **¿Qué está ocurriendo?** Las ventas muestran un crecimiento sostenido con una marcada estacionalidad hacia el cierre de año y una preferencia absoluta de los usuarios por el canal Web.
 * **¿Por qué está ocurriendo?** La confianza en la plataforma digital y las festividades de temporada impulsan la adquisición de piezas únicas bordadas.
 * **¿Qué decisión debería tomar el negocio?** Destinar el 70% del presupuesto de marketing digital a potenciar el tráfico directo al sitio Web y coordinarse con los artesanos locales desde el mes de agosto para asegurar el stock ante el incremento de demanda.
+
+![Dashboard del administrador](dashboard_dueño.png)
