@@ -1,0 +1,151 @@
+﻿producto_id,nombre,tipo,categoria,artesano_id,precio_venta,unidades_vendidas,ingreso_total,costo,utilidad_total
+1,Playera nahua 1,Marca IKAL,Playera,0,331.73,73,24216.29,131.51,14616.06
+2,Huipil tradicional 2,Marca IKAL,Bordado,0,1027.04,75,77028.0,403.67,46752.75
+3,Pulsera tejida 3,Marca IKAL,Accesorio,0,335.54,23,7717.42,135.98,4589.88
+4,Mantel bordado a mano 4,Marca IKAL,Bordado,0,1124.79,74,83234.46,412.92,52678.38
+5,Llavero artesanal 5,Marca IKAL,Accesorio,0,294.72,54,15914.88,108.59,10051.02
+6,Llavero artesanal 6,Marca IKAL,Accesorio,0,240.8,41,9872.8,97.78,5863.82
+7,Rebozo bordado 7,Marca IKAL,Bordado,0,732.86,17,12458.62,275.45,7775.97
+8,Rebozo bordado 8,Marca IKAL,Bordado,0,613.15,36,22073.4,265.46,12516.84
+9,Bolsa tejida de mano 9,Marca IKAL,Bolsa,0,942.9,57,53745.3,362.48,33083.94
+10,Blusa punto de cruz 10,Marca IKAL,Blusa,0,979.72,84,82296.48,414.09,47512.92
+11,Blusa bordada nahua 11,Marca IKAL,Blusa,0,596.55,59,35196.45,229.19,21674.24
+12,Blusa punto de cruz 12,Marca IKAL,Blusa,0,1049.0,58,60842.0,410.98,37005.16
+13,Pulsera tejida 13,Marca IKAL,Accesorio,0,249.47,51,12722.97,88.54,8207.43
+14,Bolsa bordada artesanal 14,Marca IKAL,Bolsa,0,681.09,65,44270.85,279.21,26122.2
+15,Bolsa tejida de mano 15,Marca IKAL,Bolsa,0,705.11,50,35255.5,243.73,23069.0
+16,Blusa punto de cruz 16,Marca IKAL,Blusa,0,885.45,36,31876.2,350.29,19265.76
+17,Llavero artesanal 17,Marca IKAL,Accesorio,0,136.2,21,2860.2,51.02,1788.78
+18,Llavero artesanal 18,Marca IKAL,Accesorio,0,150.45,57,8575.65,54.15,5489.1
+19,Mantel bordado a mano 19,Marca IKAL,Bordado,0,938.48,50,46924.0,389.99,27424.5
+20,Mantel bordado a mano 20,Marca IKAL,Bordado,0,1250.45,50,62522.5,542.53,35396.0
+21,Blusa artesanal floral 21,Marca IKAL,Blusa,0,796.09,32,25474.88,288.54,16241.6
+22,Huipil tradicional 22,Marca IKAL,Bordado,0,920.64,45,41428.8,340.37,26112.15
+23,Huipil tradicional 23,Marca IKAL,Bordado,0,1049.71,44,46187.24,397.37,28702.96
+24,Pulsera tejida 24,Marca IKAL,Accesorio,0,276.07,26,7177.82,105.07,4446.0
+25,Cinturón bordado 25,Marca IKAL,Accesorio,0,198.82,12,2385.84,69.68,1549.68
+26,Aretes tejidos 26,Marca IKAL,Aretes,0,205.39,5,1026.95,78.6,633.95
+27,Playera bordada floral 27,Marca IKAL,Playera,0,407.42,21,8555.82,159.11,5214.51
+28,Bolsa telar de cintura 28,Marca IKAL,Bolsa,0,460.81,35,16128.35,159.24,10554.95
+29,Mantel bordado a mano 29,Marca IKAL,Bordado,0,875.71,31,27147.01,348.21,16352.5
+30,Mantel bordado a mano 30,Marca IKAL,Bordado,0,610.73,48,29315.04,253.21,17160.96
+31,Aretes de plata bordados 31,Artesano,Aretes,7,301.84,58,17506.72,113.66,10914.44
+32,Aretes tradicionales 32,Artesano,Aretes,42,364.03,3,1092.09,132.07,695.88
+33,Pulsera tejida 33,Artesano,Accesorio,24,137.5,25,3437.5,51.08,2160.5
+34,Mantel bordado a mano 34,Artesano,Bordado,56,1162.65,9,10463.85,461.99,6305.94
+35,Llavero artesanal 35,Artesano,Accesorio,48,247.08,7,1729.56,86.98,1120.7
+36,Blusa bordada nahua 36,Artesano,Blusa,16,853.51,73,62306.23,341.95,37343.88
+37,Aretes tejidos 37,Artesano,Aretes,26,366.58,7,2566.06,130.21,1654.59
+38,Cinturón bordado 38,Artesano,Accesorio,35,286.01,9,2574.09,105.62,1623.51
+39,Llavero artesanal 39,Artesano,Accesorio,25,273.45,5,1367.25,95.25,891.0
+40,Blusa punto de cruz 40,Artesano,Blusa,27,947.07,42,39776.94,375.11,24022.32
+41,Aretes tejidos 41,Artesano,Aretes,43,309.61,23,7121.03,117.9,4409.33
+42,Bolsa bordada artesanal 42,Artesano,Bolsa,11,855.52,65,55608.8,312.86,35272.9
+43,Blusa artesanal floral 43,Artesano,Blusa,53,702.13,5,3510.65,254.06,2240.35
+44,Playera geométrica 44,Artesano,Playera,59,411.9,1,411.9,164.32,247.58
+45,Aretes tejidos 45,Artesano,Aretes,30,276.8,15,4152.0,91.28,2782.8
+46,Aretes de plata bordados 46,Artesano,Aretes,45,374.08,5,1870.4,123.14,1254.7
+47,Bolsa telar de cintura 47,Artesano,Bolsa,22,673.74,36,24254.64,264.78,14722.56
+48,Cinturón bordado 48,Artesano,Accesorio,20,126.79,22,2789.38,49.19,1707.2
+49,Cinturón bordado 49,Artesano,Accesorio,52,151.29,3,453.87,59.95,274.02
+50,Playera bordada floral 50,Artesano,Playera,39,371.71,8,2973.68,143.14,1828.56
+51,Llavero artesanal 51,Artesano,Accesorio,40,136.01,27,3672.27,47.0,2403.27
+52,Rebozo bordado 52,Artesano,Bordado,41,645.53,17,10974.01,282.79,6166.58
+53,Rebozo bordado 53,Artesano,Bordado,25,925.01,25,23125.25,333.18,14795.75
+54,Bolsa tejida de mano 54,Artesano,Bolsa,30,916.64,15,13749.6,345.37,8569.05
+55,Rebozo bordado 55,Artesano,Bordado,29,1390.99,5,6954.95,506.37,4423.1
+56,Mantel bordado a mano 56,Artesano,Bordado,20,1256.29,46,57789.34,517.77,33971.92
+57,Blusa punto de cruz 57,Artesano,Blusa,60,635.75,2,1271.5,279.54,712.42
+58,Aretes de plata bordados 58,Artesano,Aretes,33,214.83,11,2363.13,74.64,1542.09
+59,Playera nahua 59,Artesano,Playera,5,396.48,10,3964.8,162.26,2342.2
+60,Blusa punto de cruz 60,Artesano,Blusa,1,1057.06,149,157501.94,436.51,92461.95
+61,Mantel bordado a mano 61,Artesano,Bordado,17,1230.09,5,6150.45,509.12,3604.85
+62,Blusa punto de cruz 62,Artesano,Blusa,20,538.39,53,28534.67,219.56,16897.99
+63,Bolsa telar de cintura 63,Artesano,Bolsa,20,491.36,12,5896.32,189.98,3616.56
+64,Bolsa bordada artesanal 64,Artesano,Bolsa,24,469.02,12,5628.24,163.86,3661.92
+65,Rebozo bordado 65,Artesano,Bordado,44,636.72,2,1273.44,280.02,713.4
+66,Huipil tradicional 66,Artesano,Bordado,52,700.75,7,4905.25,287.99,2889.32
+67,Mantel bordado a mano 67,Artesano,Bordado,10,936.66,6,5619.96,354.82,3491.04
+68,Playera nahua 68,Artesano,Playera,2,335.5,99,33214.5,152.49,18117.99
+69,Blusa bordada nahua 69,Artesano,Blusa,57,875.74,1,875.74,327.05,548.69
+70,Bolsa telar de cintura 70,Artesano,Bolsa,24,726.27,27,19609.29,267.22,12394.35
+71,Aretes tradicionales 71,Artesano,Aretes,2,322.99,17,5490.83,113.82,3555.89
+72,Pulsera tejida 72,Artesano,Accesorio,51,341.63,9,3074.67,123.09,1966.86
+73,Bolsa telar de cintura 73,Artesano,Bolsa,31,882.3,11,9705.3,335.61,6013.59
+74,Bolsa bordada artesanal 74,Artesano,Bolsa,21,829.73,10,8297.3,313.29,5164.4
+75,Playera bordada floral 75,Artesano,Playera,1,333.06,50,16653.0,133.38,9984.0
+76,Cinturón bordado 76,Artesano,Accesorio,38,208.38,10,2083.8,80.28,1281.0
+77,Playera nahua 77,Artesano,Playera,26,370.58,0,0.0,143.41,0.0
+78,Blusa artesanal floral 78,Artesano,Blusa,36,1027.23,13,13353.99,383.46,8369.01
+79,Playera bordada floral 79,Artesano,Playera,13,440.88,74,32625.12,197.0,18047.12
+80,Mantel bordado a mano 80,Artesano,Bordado,40,1215.13,5,6075.65,510.49,3523.2
+81,Aretes tradicionales 81,Artesano,Aretes,24,238.25,11,2620.75,79.71,1743.94
+82,Aretes tejidos 82,Artesano,Aretes,15,170.22,18,3063.96,63.82,1915.2
+83,Aretes de plata bordados 83,Artesano,Aretes,26,284.51,10,2845.1,104.36,1801.5
+84,Pulsera tejida 84,Artesano,Accesorio,43,176.32,6,1057.92,70.66,633.96
+85,Huipil tradicional 85,Artesano,Bordado,15,648.37,70,45385.9,248.12,28017.5
+86,Bolsa tejida de mano 86,Artesano,Bolsa,35,704.88,20,14097.6,250.07,9096.2
+87,Huipil tradicional 87,Artesano,Bordado,31,1332.79,21,27988.59,504.59,17392.2
+88,Bolsa bordada artesanal 88,Artesano,Bolsa,2,866.06,72,62356.32,350.27,37136.88
+89,Mantel bordado a mano 89,Artesano,Bordado,7,1293.32,13,16813.16,553.82,9613.5
+90,Llavero artesanal 90,Artesano,Accesorio,38,142.48,3,427.44,48.43,282.15
+91,Bolsa telar de cintura 91,Artesano,Bolsa,48,743.01,4,2972.04,287.85,1820.64
+92,Blusa bordada nahua 92,Artesano,Blusa,53,548.16,6,3288.96,239.61,1851.3
+93,Mantel bordado a mano 93,Artesano,Bordado,19,944.22,34,32103.48,394.01,18707.14
+94,Playera bordada floral 94,Artesano,Playera,14,348.79,5,1743.95,133.55,1076.2
+95,Blusa bordada nahua 95,Artesano,Blusa,26,865.46,46,39811.16,353.15,23566.26
+96,Playera geométrica 96,Artesano,Playera,46,309.43,3,928.29,142.29,501.42
+97,Rebozo bordado 97,Artesano,Bordado,44,831.76,31,25784.56,361.0,14593.56
+98,Llavero artesanal 98,Artesano,Accesorio,2,151.34,60,9080.4,57.26,5644.8
+99,Bolsa bordada artesanal 99,Artesano,Bolsa,11,562.15,16,8994.4,230.3,5309.6
+100,Blusa punto de cruz 100,Artesano,Blusa,50,1013.83,2,2027.66,381.41,1264.84
+101,Playera bordada floral 101,Artesano,Playera,11,292.88,29,8493.52,133.64,4617.96
+102,Blusa punto de cruz 102,Artesano,Blusa,8,813.91,62,50462.42,312.78,31070.06
+103,Bolsa telar de cintura 103,Artesano,Bolsa,41,705.17,9,6346.53,291.13,3726.36
+104,Bolsa tejida de mano 104,Artesano,Bolsa,9,617.8,19,11738.2,231.62,7337.42
+105,Blusa bordada nahua 105,Artesano,Blusa,42,600.84,16,9613.44,231.87,5903.52
+106,Pulsera tejida 106,Artesano,Accesorio,7,211.88,6,1271.28,80.62,787.56
+107,Llavero artesanal 107,Artesano,Accesorio,48,266.61,6,1599.66,101.37,991.44
+108,Cinturón bordado 108,Artesano,Accesorio,39,322.45,15,4836.75,123.19,2988.9
+109,Pulsera tejida 109,Artesano,Accesorio,50,308.14,4,1232.56,116.22,767.68
+110,Bolsa bordada artesanal 110,Artesano,Bolsa,21,474.43,39,18502.77,179.16,11515.53
+111,Bolsa bordada artesanal 111,Artesano,Bolsa,45,893.89,1,893.89,368.09,525.8
+112,Pulsera tejida 112,Artesano,Accesorio,18,144.75,61,8829.75,55.59,5438.76
+113,Pulsera tejida 113,Artesano,Accesorio,58,195.96,0,0.0,71.42,0.0
+114,Cinturón bordado 114,Artesano,Accesorio,9,215.05,20,4301.0,82.84,2644.2
+115,Aretes tradicionales 115,Artesano,Aretes,32,191.4,4,765.6,72.98,473.68
+116,Pulsera tejida 116,Artesano,Accesorio,59,186.99,0,0.0,63.04,0.0
+117,Playera geométrica 117,Artesano,Playera,51,363.58,5,1817.9,149.62,1069.8
+118,Mantel bordado a mano 118,Artesano,Bordado,54,997.03,0,0.0,371.28,0.0
+119,Playera bordada floral 119,Artesano,Playera,53,424.68,1,424.68,193.87,230.81
+120,Bolsa tejida de mano 120,Artesano,Bolsa,19,800.11,35,28003.85,315.96,16945.25
+121,Playera nahua 121,Artesano,Playera,41,399.39,7,2795.73,174.35,1575.28
+122,Blusa artesanal floral 122,Artesano,Blusa,47,650.54,10,6505.4,264.48,3860.6
+123,Llavero artesanal 123,Artesano,Accesorio,19,250.94,32,8030.08,84.84,5315.2
+124,Blusa bordada nahua 124,Artesano,Blusa,1,849.93,18,15298.74,370.35,8632.44
+125,Playera nahua 125,Artesano,Playera,7,384.12,26,9987.12,173.82,5467.8
+126,Bolsa bordada artesanal 126,Artesano,Bolsa,32,530.44,2,1060.88,215.7,629.48
+127,Huipil tradicional 127,Artesano,Bordado,57,1093.1,2,2186.2,415.2,1355.8
+128,Huipil tradicional 128,Artesano,Bordado,16,1349.46,27,36435.42,522.42,22330.08
+129,Bolsa tejida de mano 129,Artesano,Bolsa,45,842.96,13,10958.48,318.17,6822.27
+130,Huipil tradicional 130,Artesano,Bordado,44,918.68,3,2756.04,403.2,1546.44
+131,Aretes tradicionales 131,Artesano,Aretes,26,260.57,8,2084.56,85.48,1400.72
+132,Huipil tradicional 132,Artesano,Bordado,12,1213.96,10,12139.6,484.04,7299.2
+133,Bolsa telar de cintura 133,Artesano,Bolsa,35,630.44,26,16391.44,252.95,9814.74
+134,Aretes tradicionales 134,Artesano,Aretes,37,256.55,15,3848.25,94.94,2424.15
+135,Aretes tradicionales 135,Artesano,Aretes,49,366.54,7,2565.78,130.26,1653.96
+136,Rebozo bordado 136,Artesano,Bordado,32,631.33,22,13889.26,252.13,8342.4
+137,Playera nahua 137,Artesano,Playera,4,293.88,91,26743.08,127.8,15113.28
+138,Playera nahua 138,Artesano,Playera,15,406.86,40,16274.4,163.88,9719.2
+139,Bolsa tejida de mano 139,Artesano,Bolsa,25,746.07,33,24620.31,265.48,15859.47
+140,Blusa bordada nahua 140,Artesano,Blusa,10,1069.46,40,42778.4,409.44,26400.8
+141,Aretes tradicionales 141,Artesano,Aretes,5,228.97,24,5495.28,83.03,3502.56
+142,Bolsa telar de cintura 142,Artesano,Bolsa,30,788.62,18,14195.16,287.46,9020.88
+143,Blusa bordada nahua 143,Artesano,Blusa,29,1019.49,7,7136.43,385.93,4434.92
+144,Mantel bordado a mano 144,Artesano,Bordado,13,1152.21,57,65675.97,429.85,41174.52
+145,Aretes tradicionales 145,Artesano,Aretes,1,312.51,20,6250.2,116.71,3916.0
+146,Playera nahua 146,Artesano,Playera,1,299.41,210,62876.1,117.88,38121.3
+147,Aretes de plata bordados 147,Artesano,Aretes,27,273.39,34,9295.26,97.59,5977.2
+148,Aretes tejidos 148,Artesano,Aretes,21,228.17,2,456.34,85.08,286.18
+149,Playera bordada floral 149,Artesano,Playera,13,339.62,54,18339.48,146.9,10406.88
+150,Pulsera tejida 150,Artesano,Accesorio,45,340.35,23,7828.05,129.41,4851.62
