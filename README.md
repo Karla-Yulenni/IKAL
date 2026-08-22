@@ -3,9 +3,15 @@
 ## Plataforma digital para la comercialización de artesanías regionales
 ---
 
-![Logotipo de IKAL](docs/img/logo.png)
+<p align="center">
+  <img src="docs/img/logo.png" alt="Logotipo de IKAL" width="300">
+</p>
 
-![Jerarquía de roles de equipo](docs/img/organigrama.png)
+---
+
+<p align="center">
+  <img src="docs/img/organigrama.png" alt="Jerarquía de roles de equipo" width="600">
+</p>
 
 
 ---
