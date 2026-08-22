@@ -2,8 +2,6 @@
 
 Este documento registra el uso de IA generativa (Claude, Anthropic) en el desarrollo del proyecto IKAL, conforme a lo solicitado en la Etapa 14 de la guía.
 
-🔲 **PENDIENTE:** cada integrante debe agregar su propia sección con el uso de IA en sus etapas asignadas. Esta sección documenta únicamente el trabajo de **María del Rosario Maldonado Hilario (230438)** en las Etapas 6, 7, 11 y 15, y el apoyo brindado en la Etapa 10.
-
 ## Herramienta utilizada
 Claude (Anthropic), a través de la interfaz de conversación con capacidad de análisis de código y generación de archivos.
 
