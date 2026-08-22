@@ -329,3 +329,133 @@ python src/simulation/generar_dataset.py
 - Utilidad total generada: $1,566,814.17 MXN
 
 
+
+
+
+# Etapa 6. Mecanismo analítico de diagnóstico
+
+Se aplicó un análisis de **rentabilidad y equidad** por artesano, comunidad y categoría, usando a Marca IKAL como referencia comparativa. Se eligió este método porque responde directamente al objetivo de negocio: verificar si el modelo "sin intermediarios" se cumple en los datos y si el beneficio llega por igual a todos los artesanos.
+
+**Hallazgos principales:**
+- El margen del artesano (61.2%) es prácticamente idéntico al de Marca IKAL (61.4%) — el modelo sin intermediarios se sostiene.
+- 13.3% de los artesanos (8 de 60) no generaron ningún ingreso neto; varios llevan más de 2 años registrados sin publicar productos.
+- 84.2% de las ventas provienen de compradores fuera de la región Xicotepec–Pantepec.
+- Un producto de Marca IKAL genera en promedio 2.25x más ingreso que uno de artesano individual, explicable por su doble rol de vendedor y operador de la plataforma.
+
+Ver el reporte completo, código, gráficas, limitaciones y recomendaciones en [`docs/etapa6-mecanismo-analitico.md`](docs/etapa6-mecanismo-analitico.md). Código fuente: [`src/analysis/rentabilidad_artesanos.py`](src/analysis/rentabilidad_artesanos.py).
+
+---
+
+# Etapa 7. Definición y cálculo de KPI
+
+Catálogo de 6 KPI, cada uno amarrado a un objetivo de negocio, con fórmula, meta y semáforo:
+
+| KPI | Objetivo | Valor actual | Semáforo |
+|---|---|---|---|
+| Margen promedio del artesano | Sin intermediarios | 61.2% | 🟢 |
+| % de artesanos activos | Beneficio equitativo | 86.7% | 🟡 |
+| % de ventas fuera de la región | Alcance nacional | 84.2% | 🟢 |
+| Tasa de cancelación | Reducir pérdida de pedidos | 6.7% | 🟡 |
+| Tendencia del ticket promedio | Incrementar ingresos | -5.5% | 🔴 |
+| Margen promedio por categoría | Rentabilidad sostenida | 58%–64% | 🟢 |
+
+El único semáforo en rojo (tendencia del ticket promedio a la baja) es un hallazgo nuevo, no detectado en la Etapa 6, y es la alerta más urgente para el diagnóstico del equipo.
+
+Ver el catálogo completo en [`docs/etapa7-kpis.md`](docs/etapa7-kpis.md). Código fuente: [`src/analysis/kpis_analisis.py`](src/analysis/kpis_analisis.py).
+
+---
+
+# Integrantes del equipo
+
+| Nombre | Matrícula | Etapas a cargo |
+|---|---|---|
+| Karla Yulenni Domínguez Amador | 230284 | 1, 2, 3, 4 + apoyo en 10 |
+| María de los Ángeles García Cortés | 230538 | 5, 8, 9 + apoyo en 10 |
+| María del Rosario Maldonado Hilario | 230438 | 6, 7, 11, 15 + apoyo en 10 |
+
+Las etapas 12 (Git/GitHub colaborativo), 13 (presentación y defensa) y 14 (uso responsable de IA) son responsabilidad compartida de las 3 integrantes.
+
+---
+
+# Tecnologías utilizadas
+
+- **Sitio web (demo IKAL):** HTML, CSS y JavaScript, con `localStorage` para persistencia del lado del cliente
+- **Simulación y análisis de datos:** Python (`csv`, `statistics`, `collections`, `datetime`, `numpy`, `Faker`), `matplotlib` para visualizaciones
+- **Dashboard en tiempo real (Etapa 15, bonificación):** Node.js, Express, Socket.IO, persistencia en archivo JSON
+- **Documentación:** Markdown y Word
+- **Control de versiones:** Git y GitHub, con flujo de ramas por etapa y Pull Requests
+
+---
+
+# Instalación y ejecución
+
+### Sitio web
+Abre `index.html` con Live Server o cualquier navegador moderno. No requiere instalación.
+
+### Análisis de datos (Python)
+```bash
+pip install matplotlib
+python src/analysis/rentabilidad_artesanos.py   # Etapa 6
+python src/analysis/kpis_analisis.py            # Etapa 7
+```
+
+### Dashboard en tiempo real (Etapa 15, opcional)
+```bash
+cd backend
+npm install
+npm start
+```
+Luego abre `panel-vendedor.html` e inicia sesión con la cuenta administradora de IKAL.
+
+---
+
+# Estructura del repositorio
+
+```
+IKAL/
+├── data/
+│   ├── raw/                 # Dataset con defectos de calidad intencionales
+│   └── processed/           # Dataset limpio + resultados calculados (JSON)
+├── docs/
+│   ├── etapa6-mecanismo-analitico.md
+│   ├── etapa7-kpis.md
+│   ├── findings.md
+│   ├── ai-usage.md
+│   └── img/                 # Gráficas y recursos visuales
+├── src/
+│   ├── simulation/          # Generador del dataset (Etapa 3)
+│   └── analysis/            # Código de las etapas 6 y 7
+├── backend/                  # Servidor Etapa 15 (tiempo real, bonificación)
+├── index.html · css/ · js/  # Sitio web demo de IKAL
+└── README.md
+```
+
+---
+
+# Principales resultados
+
+- El modelo "sin intermediarios" se sostiene: el margen del artesano es consistente con el del grupo fundador.
+- 84.2% de las ventas ya provienen de fuera de la región, validando el objetivo de alcance nacional.
+- 13.3% de los artesanos no ha recibido ningún beneficio económico de la plataforma — hallazgo prioritario para el diagnóstico.
+- El ticket promedio muestra una tendencia a la baja de 5.5% en los últimos trimestres.
+
+---
+
+# Limitaciones generales
+
+- El dataset es simulado; no sustituye datos transaccionales reales de una operación de IKAL en producción.
+- El periodo cubierto es de 2.95 años, no 3 calendarios completos.
+- No se cuenta con el motivo de cancelación de cada pedido ni con información cualitativa sobre por qué algunos artesanos no publican productos.
+
+---
+
+# Licencia
+
+Uso académico — Proyecto Integrador, Universidad Tecnológica de Xicotepec de Juárez.
+
+---
+
+# Referencias
+
+- Guía de Apoyo para el Proyecto Integrador — Analítica de Datos para Negocios Digitales, UTXJ.
+- Documentación de uso de IA generativa: [`docs/ai-usage.md`](docs/ai-usage.md)
