@@ -1,12 +1,5 @@
 # Etapa 7 — Definición y Cálculo de KPI
 
-**Proyecto:** IKAL — Marketplace de artesanías de Xicotepec de Juárez y Pantepec
-**Elaboró:** María del Rosario Maldonado Hilario (230438)
-**Código fuente:** [`src/analysis/kpis_analisis.py`](../src/analysis/kpis_analisis.py)
-**Resultados en bruto:** [`data/processed/kpis_resultados.json`](../data/processed/kpis_resultados.json)
-
----
-
 ## 1. Objetivos de negocio considerados
 
 Los KPI de este catálogo se derivan directamente de los objetivos centrales del modelo de negocio de IKAL:
@@ -87,3 +80,6 @@ Ninguna categoría cae debajo del umbral de alerta (50%). Playera es la de menor
 Este catálogo alimenta directamente el diagnóstico del equipo:
 - El único semáforo rojo (ticket promedio) es la alerta más urgente a explicar en el diagnóstico.
 - Los dos semáforos amarillos (artesanos activos, cancelación) están relacionados con hallazgos ya documentados en la Etapa 6 (artesanos inactivos, cancelaciones por canal) — no son problemas nuevos, son la misma causa vista desde el indicador de seguimiento.
+
+**Código fuente:** [`src/analysis/kpis_analisis.py`](../src/analysis/kpis_analisis.py)
+**Resultados en bruto:** [`data/processed/kpis_resultados.json`](../data/processed/kpis_resultados.json)
