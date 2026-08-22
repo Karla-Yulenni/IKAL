@@ -458,4 +458,4 @@ Uso académico — Proyecto Integrador, Universidad Tecnológica de Xicotepec de
 # Referencias
 
 - Guía de Apoyo para el Proyecto Integrador — Analítica de Datos para Negocios Digitales, UTXJ.
-- Documentación de uso de IA generativa: [`docs/ai-usage.md`](docs/ai-usage.md)
+
