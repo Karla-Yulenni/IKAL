@@ -1,13 +1,5 @@
 # Etapa 6 — Mecanismo Analítico de Diagnóstico
 
-**Proyecto:** IKAL — Marketplace de artesanías de Xicotepec de Juárez y Pantepec
-**Enfoque:** Rentabilidad y equidad por artesano, comunidad y categoría
-**Elaboró:** María del Rosario Maldonado Hilario (230438)
-**Código fuente:** [`src/analysis/rentabilidad_artesanos.py`](../src/analysis/rentabilidad_artesanos.py)
-**Resultados en bruto:** [`data/processed/resultados_etapa6.json`](../data/processed/resultados_etapa6.json)
-
----
-
 ## 1. Justificación del método seleccionado
 
 Se seleccionó como mecanismo analítico un **análisis de rentabilidad y equidad**, aplicado en tres niveles: por artesano individual, por comunidad de origen (Xicotepec de Juárez y Pantepec) y por categoría/técnica de producto, usando como referencia comparativa el desempeño de Marca IKAL (el grupo fundador que además de vender bordados propios administra la plataforma).
@@ -124,3 +116,6 @@ La ventaja de Marca IKAL frente al artesano individual (2.25x por producto) es e
 | Instagram con la tasa de cancelación más alta (7.9%) | Revisar el proceso de checkout/confirmación de pedido específicamente en ese canal |
 | Aretes y Accesorios con mayor margen pero menor volumen | Promover estas categorías en campañas, ya que dejan más utilidad relativa por venta |
 | 84.2% de ventas ya vienen de fuera de la región | Reforzar envíos foráneos (tiempos, costos) ya que es el segmento que más sostiene el negocio |
+
+**Código fuente:** [`src/analysis/rentabilidad_artesanos.py`](../src/analysis/rentabilidad_artesanos.py)
+**Resultados en bruto:** [`data/processed/resultados_etapa6.json`](../data/processed/resultados_etapa6.json)
